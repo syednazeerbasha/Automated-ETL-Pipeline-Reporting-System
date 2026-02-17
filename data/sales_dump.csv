@@ -1,0 +1,1001 @@
+transaction_id,date,product,category,region,amount
+a30809c8-82a9-4bc2-ba18-f5c398280151,2023-08-09 04:31:08,Enterprise Server,Hardware,EU,13655.45
+35f8c610-b5e3-49f8-be1e-c09b99eac694,2024-01-23 21:49:11,Mechanical Keyboard,Accessory,LATAM,159.04
+3d1c6eac-1955-4b6b-a4f1-c6798c0f0319,2024-12-15 12:20:56,USB-C Hub,Accessory,EU,46.45
+a20f7068-4195-40b0-97bc-f74a0f39d686,2024-08-28 01:11:40,USB-C Hub,Accessory,NA,42.89
+fd735be9-7d48-4e44-b8a5-7013da7dfcb1,2023-02-02 21:12:20,SaaS License (Yearly),Accessory,EU,1097.99
+c224644d-7ab7-463c-a1a7-cda450b96c2f,2023-08-28 13:10:40,USB-C Hub,Accessory,APAC,41.87
+dcc2798b-fddc-4f61-8fcd-ec8c721607ce,2023-02-27 22:16:50,Mechanical Keyboard,Accessory,EU,159.66
+def6c5a2-1b27-4152-8ae1-bb8e42b2eef1,2025-12-09 22:59:10,Enterprise Server,Hardware,APAC,13813.82
+6010c1de-b3b8-4969-bf30-618f701cd014,2024-12-05 02:06:31,Enterprise Server,Hardware,LATAM,15188.12
+4a46377b-5986-4816-a8af-3bba3f7432d8,2023-01-14 12:44:23,USB-C Hub,Accessory,EU,47.34
+47ab781c-43c8-4836-8c56-3561c6f7a9a7,2024-06-16 07:21:27,SaaS License (Yearly),Accessory,NA,1030.05
+1c8c9e08-9aa1-4a30-bdba-92c4750c53d1,2023-08-05 18:32:19,Mechanical Keyboard,Accessory,APAC,159.71
+0f260714-c0ce-4b46-8f10-b9d0aa5f0442,2024-12-25 02:05:15,Wireless Mouse,Accessory,APAC,23.6
+c7307db6-5ae3-4487-bcbb-3f138ecae983,2024-01-13 11:08:20,SaaS License (Yearly),Accessory,EU,1079.02
+9954d71a-66fb-4361-a3c7-99e6ea916e7a,2025-12-15 12:18:49,HD Monitor,Accessory,EU,288.93
+a97a92b7-3137-4582-9d13-09ab31900f88,2023-12-16 06:06:35,Enterprise Server,Hardware,EU,14999.03
+49d31e84-9736-4e13-85df-80d7644c90a1,2023-08-01 16:09:19,Laptop Pro,Hardware,EU,1221.02
+6d2f6bfd-1495-4549-adb9-65f34c064e5a,2024-11-17 22:20:34,Enterprise Server,Hardware,APAC,15858.17
+cd4e145c-f99d-469f-ad98-9686ce0797c4,2025-02-15 12:08:46,SaaS License (Yearly),Accessory,LATAM,1070.6
+fa1b21ef-4978-4e5a-98a4-e8f0c0e543d2,2025-04-03 12:05:13,USB-C Hub,Accessory,NA,48.79
+d70f50a7-8852-4b0c-bea5-72ed98b47e49,2025-11-13 18:07:38,Laptop Pro,Hardware,EU,1306.16
+65bc12c6-a0d9-4c50-8850-5bf6ac1cf541,2024-02-22 06:08:30,HD Monitor,Accessory,APAC,303.15
+00a5f6f8-f6e4-454e-b933-20c038cf563c,2024-11-12 05:41:27,Laptop Pro,Hardware,APAC,1129.24
+e79cb33f-6ed2-4b48-9636-6617b6747c2e,2024-10-22 20:04:25,SaaS License (Yearly),Accessory,LATAM,1087.77
+977c6f90-cefd-430b-a0c7-e26721799368,2026-01-19 15:11:50,Wireless Mouse,Accessory,APAC,24.32
+ed13ebb2-9450-4982-b550-03b1379e5a80,2025-06-09 22:21:07,Enterprise Server,Hardware,APAC,14314.4
+0e1a89b8-bf0e-4c7a-93be-a38740a9454a,2024-11-11 23:52:01,USB-C Hub,Accessory,NA,42.6
+ab69a232-1103-48c5-b83d-d454c5345319,2025-11-17 23:29:19,HD Monitor,Accessory,EU,282.33
+67054abf-3c2c-4928-b97f-5026998de13c,2024-11-26 17:02:58,Enterprise Server,Hardware,NA,13562.75
+6f20bb55-6825-419c-9cf4-e106e0dd5e3f,2024-01-26 13:46:58,Ergo Chair,Accessory,EU,419.39
+ddaf240c-3301-4f71-848f-aa8179c9c3e6,2026-01-06 07:42:01,HD Monitor,Accessory,APAC,287.29
+ac9960df-b0bf-458f-970e-7a05aa63e81c,2023-01-01 14:10:49,Laptop Pro,Hardware,APAC,1307.58
+98aee758-4bc8-4988-b265-f735f58c7eaf,2024-10-17 04:16:04,HD Monitor,Accessory,APAC,285.52
+0dd343f8-5f98-4ca3-834a-59a21bdb83ef,2024-04-19 05:12:23,SaaS License (Yearly),Accessory,NA,921.41
+48b97cb9-20ac-42e5-a46d-200e92f5063f,2026-02-05 16:28:49,SaaS License (Yearly),Accessory,NA,910.57
+eee4a065-eb1d-49bf-858d-988da3872fad,2024-02-17 21:26:06,Mechanical Keyboard,Accessory,NA,159.81
+7dcca1aa-c8b5-4237-9d5e-0a650513a62a,2024-01-19 14:50:17,HD Monitor,Accessory,LATAM,326.81
+73bc5ab2-2080-4647-ae98-1094e7aa1d13,2025-11-04 01:51:07,Mechanical Keyboard,Accessory,NA,137.96
+e78aaf28-4eb5-4127-b33a-8777ffdd962f,2025-11-11 02:26:46,Ergo Chair,Accessory,NA,411.68
+f17cb133-3dc2-4ba0-8bc3-d98ef75b2c59,2025-08-28 07:23:42,Laptop Pro,Hardware,LATAM,1228.31
+8e25ffec-0b02-471f-ae85-3362b8ad25a7,2024-05-10 08:59:36,Wireless Mouse,Accessory,NA,24.32
+bee5abc6-7556-4aa6-9fe9-cb9b0d5126ed,2025-04-10 02:15:09,USB-C Hub,Accessory,APAC,46.51
+e97676f6-2f00-468d-a381-c61d2dd78b00,2024-11-13 19:47:34,USB-C Hub,Accessory,APAC,47.85
+66bdc21e-bbd3-46c7-959d-0309c2a65eba,2024-10-20 06:50:53,Wireless Mouse,Accessory,APAC,23.03
+2a09a0d9-6c30-47d2-9082-9c587e0c2f4c,2025-02-04 01:42:07,USB-C Hub,Accessory,NA,42.95
+196c74de-b4a7-4f5a-a9f8-9e26d18156e5,2025-05-20 23:46:40,SaaS License (Yearly),Accessory,APAC,946.23
+5c32b0ba-05ed-44d6-b1fc-7455532da9b2,2024-09-04 19:41:33,SaaS License (Yearly),Accessory,LATAM,1014.66
+fddc34fc-0a43-47ea-8946-4643f6eeacd8,2024-09-30 15:20:01,HD Monitor,Accessory,APAC,316.02
+e66d2cab-4f36-40e8-acf8-aa3a971350d4,2025-06-22 07:28:41,Enterprise Server,Hardware,LATAM,14690.47
+c1d549d7-7a32-44ee-9e42-496e1990f519,2025-11-17 06:28:18,Laptop Pro,Hardware,EU,1288.64
+7c8de93d-c03b-47cc-b18c-3b93432c5f57,2025-12-15 07:33:42,Wireless Mouse,Accessory,NA,24.16
+289eaa9c-be8e-4555-96a3-d2f5607a0a65,2025-12-26 15:49:29,HD Monitor,Accessory,APAC,304.18
+33cabe06-4a72-4233-9a5d-ed46286c77a3,2024-05-06 10:08:59,HD Monitor,Accessory,EU,285.31
+b3811e5f-d18d-4cd5-9dde-46f9cd956af1,2023-04-23 13:07:49,Ergo Chair,Accessory,APAC,448.44
+085333a6-d36e-443c-b756-68da5caaf5f2,2023-03-24 01:35:47,Ergo Chair,Accessory,EU,407.85
+20cd4bab-bc5a-4877-a7d2-000b67885833,2023-07-15 22:31:51,Ergo Chair,Accessory,LATAM,419.88
+37bc2c5e-03d7-4c9b-9097-cce2d8a13461,2026-01-25 05:04:02,SaaS License (Yearly),Accessory,LATAM,96278.0
+63cb1b6c-4733-4495-9778-c1647966bf93,2025-04-12 15:40:50,USB-C Hub,Accessory,EU,41.35
+0d554fb7-f102-4e30-b3e6-09826fd029c7,2023-06-01 04:20:28,HD Monitor,Accessory,APAC,317.68
+81524a4a-f37d-44ba-a7d7-a2b4469a1619,2024-03-28 22:54:10,Wireless Mouse,Accessory,LATAM,26.9
+1cf02ffd-50b2-4ac2-8e44-dd89ea58f7e2,2024-07-04 09:04:43,Mechanical Keyboard,Accessory,NA,137.59
+90b9c53f-c515-4521-a51d-6410c2c48ef1,2023-04-25 21:56:43,HD Monitor,Accessory,LATAM,323.74
+20421f9b-cf9b-4b87-9644-a7ee675e4547,2025-03-17 23:26:20,SaaS License (Yearly),Accessory,LATAM,1031.12
+8d4dcff9-d55a-4470-a262-de43a1e20269,2025-04-08 07:40:02,Enterprise Server,Hardware,NA,16180.02
+c3b0153f-c7d9-4fa5-b1c1-c67cefddec3b,2023-04-06 05:47:39,Enterprise Server,Hardware,EU,14613.94
+8ef1b1ff-8941-4285-8703-37b2eee0cf52,2023-06-04 07:21:16,Enterprise Server,Hardware,EU,15169.72
+4ff49bb4-d0e6-4fed-8b09-1537c697db0f,2023-08-13 11:42:08,SaaS License (Yearly),Accessory,NA,1069.0
+837c10e8-864f-4714-bc6c-8c469f1602c1,2023-08-02 04:28:17,USB-C Hub,Accessory,LATAM,49.11
+70d88ff5-e27f-4731-81ec-52c094af05c2,2023-10-31 08:25:54,Wireless Mouse,Accessory,APAC,24.19
+b0d3a314-708b-45bb-95d6-e7549046a32c,2023-04-13 17:36:05,Wireless Mouse,Accessory,APAC,26.22
+e304112e-f701-4b75-92b5-a37955221549,2024-10-23 00:19:53,SaaS License (Yearly),Accessory,EU,944.3
+37337d07-1c00-487b-8b67-de325d81f43d,2024-12-19 09:39:34,USB-C Hub,Accessory,EU,45.96
+0225e6f6-68e0-4bed-8b24-d4264486ad1e,2023-08-25 17:16:53,Enterprise Server,Hardware,EU,15372.52
+7125647b-31b7-46ce-9bbd-7b3159ed4d7b,2025-04-10 00:27:01,SaaS License (Yearly),Accessory,APAC,969.54
+4e887294-d8b0-4355-bb71-a2441e762d7c,2024-12-16 21:42:32,SaaS License (Yearly),Accessory,LATAM,1044.06
+945fcb31-d7cc-445d-ada3-91e7d03cabda,2023-03-08 17:50:00,Mechanical Keyboard,Accessory,NA,135.31
+906463d0-7792-4889-8ea8-0bae29665d7d,2024-01-03 22:21:06,USB-C Hub,Accessory,EU,46.68
+d3ff27cf-8537-496d-a88f-e38034179376,2023-11-10 21:51:17,Wireless Mouse,Accessory,EU,26.08
+be34da6e-016a-48d7-9533-d16c7f015e03,2024-02-26 12:44:06,Enterprise Server,Hardware,NA,15183.04
+6ee31871-3ae8-4114-a73c-d5177d50c24a,2023-06-29 04:44:21,Enterprise Server,Hardware,NA,15839.59
+a2817628-1912-4285-97bf-cd9a98a00e74,2025-08-26 19:22:10,SaaS License (Yearly),Accessory,EU,1071.33
+d343dc14-e808-4884-90ba-d71f5c021b06,2023-07-19 12:20:16,Laptop Pro,Hardware,LATAM,1093.9
+eb3fbf4c-a71a-4521-87a7-fc411d672f6c,2025-04-04 12:31:30,Laptop Pro,Hardware,NA,1177.79
+fd1bc256-f6ec-4de4-988b-172e5416a59b,2024-10-25 23:12:27,SaaS License (Yearly),Accessory,LATAM,1031.65
+47aef753-ab7d-4f17-84ef-a8d6df0125b1,2025-05-15 17:37:55,Laptop Pro,Hardware,APAC,1161.54
+4cf53b7b-eebb-42fc-915f-ff73ce762795,2023-04-14 08:57:53,Enterprise Server,Hardware,APAC,13968.26
+b9fe9d38-fb61-4807-b291-ab98f05d7a3d,2025-07-18 05:12:30,SaaS License (Yearly),Accessory,LATAM,940.28
+1211ef3f-c191-4f78-9dc8-238f939f707d,2023-08-04 12:10:35,Ergo Chair,Accessory,LATAM,440.82
+97054bb8-ff83-44c4-878c-b5d57c9740a9,2025-11-13 04:58:34,Ergo Chair,Accessory,APAC,406.88
+4d8ce70d-ce71-4587-8572-09e3b884ef99,2025-01-10 02:03:10,SaaS License (Yearly),Accessory,NA,1004.98
+9b2f3b93-b112-458f-95e2-cfee0a71d7c3,2024-04-18 06:11:41,Ergo Chair,Accessory,APAC,421.25
+4cb054e6-04c2-4c9a-9649-17b97d614cda,2023-01-27 14:12:06,Wireless Mouse,Accessory,LATAM,23.12
+6d69d90e-a43c-470d-ba4f-bb95cd2e3e5a,2024-11-28 16:38:53,Ergo Chair,Accessory,LATAM,409.31
+0bc5cc9b-2e9b-4336-a8ba-0a82bca08cbb,2024-05-24 05:44:10,USB-C Hub,Accessory,APAC,44.67
+19ba6242-a325-40fe-878d-1f36c70b05f0,2025-02-27 16:52:53,Laptop Pro,Hardware,LATAM,1200.14
+025dbd9a-593d-4d52-bbf2-c74bd789edbc,2023-06-30 12:08:53,Enterprise Server,Hardware,EU,14868.67
+b00e8959-c40e-4363-997e-ca7227a95d54,2023-05-25 09:30:25,HD Monitor,Accessory,EU,296.49
+a75cf4b2-7c0f-478c-bb58-63384988bb2f,2025-06-24 11:27:24,HD Monitor,Accessory,LATAM,310.34
+2fb1dc7e-1a66-46e9-8581-901c7f941df6,2023-09-06 10:00:58,USB-C Hub,Accessory,NA,43.0
+9800c84c-3d8e-4a77-a2e1-eb3e24adedc4,2025-01-28 10:17:02,Laptop Pro,Hardware,NA,1140.31
+c25dd0f1-240c-4d43-bac7-1e77d9061f24,2024-12-12 06:06:21,Mechanical Keyboard,Accessory,LATAM,153.78
+cf9b8941-9a15-4cbf-81d5-7777186b5f18,2024-12-10 16:53:38,Mechanical Keyboard,Accessory,APAC,150.92
+5229457b-540b-4a92-9eba-353b058905eb,2025-08-12 15:48:08,Ergo Chair,Accessory,LATAM,466.49
+0b5aeaa1-50d7-4944-8969-075007ddd5de,2024-02-29 15:24:13,Ergo Chair,Accessory,APAC,439.5
+4b47bcee-313a-45a0-832e-acb0c0a557e3,2025-05-24 11:11:07,SaaS License (Yearly),Accessory,NA,966.45
+71602ded-fc6e-4334-abfa-16b92895239b,2025-09-26 14:02:40,Mechanical Keyboard,Accessory,EU,146.48
+a61a3b6a-c01e-452d-bc08-98ffe97ad0e2,2025-05-06 03:26:06,Wireless Mouse,Accessory,APAC,2291.0
+6e24ef8a-d652-402d-a740-153bfe04a24f,2025-11-30 01:53:59,USB-C Hub,Accessory,APAC,43.73
+c806e512-3ada-4e38-8d13-7957e4a4bcf6,2023-01-13 04:57:41,Enterprise Server,Hardware,NA,15626.31
+968997bb-3261-4aa9-b336-b2cff00c4344,2025-07-09 12:26:27,HD Monitor,Accessory,EU,282.22
+6e2980dd-033b-4fad-b623-73c92acb94de,2025-06-12 09:20:46,Laptop Pro,Hardware,APAC,1243.14
+893fddd6-59b4-4b60-8d2f-30bdfc6cf03f,2023-07-07 16:59:33,Ergo Chair,Accessory,NA,483.39
+1af69f12-83a3-4a1f-81dc-6363f96d3270,2023-07-10 19:26:17,Mechanical Keyboard,Accessory,EU,151.85
+06433f68-66ac-44d6-8dc6-2a7fdc8f74fd,2025-09-27 14:15:08,Wireless Mouse,Accessory,NA,25.38
+8845fda7-7ff7-4dc2-8618-652f70f2a712,2023-05-10 20:28:09,Laptop Pro,Hardware,NA,1312.6
+d82ad4ed-4031-4e78-b692-804af4bc1ea2,2025-01-04 12:25:37,USB-C Hub,Accessory,LATAM,49.45
+b312c90c-1600-44c3-91a6-845447d830e7,2024-06-22 05:04:07,USB-C Hub,Accessory,EU,45.11
+bebfb62a-05e0-4d32-8057-63e6d00a6b63,2024-12-19 12:39:34,Laptop Pro,Hardware,APAC,1100.77
+faceb0d0-2ffd-4f73-9af4-7f142d8391ac,2025-09-08 06:58:59,USB-C Hub,Accessory,APAC,47.72
+9c0ad3f6-514b-4780-bfc6-785e9cdc168e,2025-08-29 09:42:50,HD Monitor,Accessory,APAC,299.09
+dfffa9e9-edac-4cd1-a305-70bba00b5179,2025-06-02 13:33:22,Mechanical Keyboard,Accessory,NA,135.27
+6fe613ee-8ad7-42f2-afca-f5a6b90f6e13,2026-02-04 03:26:13,HD Monitor,Accessory,APAC,283.55
+f7027e6e-fd20-4daf-a095-92cabed7bb7c,2025-12-04 06:25:22,Wireless Mouse,Accessory,EU,23.47
+2632a9f0-ef04-4a01-a250-7f130538c2aa,2023-03-09 03:24:27,SaaS License (Yearly),Accessory,APAC,926.34
+e90c3b33-baa0-484e-ab32-549b5c5e4146,2023-01-15 00:13:59,Laptop Pro,Hardware,LATAM,1241.61
+15fee880-983d-43d7-8500-f9872916edad,2025-07-22 07:54:27,USB-C Hub,Accessory,NA,40.98
+36ddd0f1-558b-481b-a70d-3a4c2eaeb831,2024-12-16 15:17:41,Enterprise Server,Hardware,NA,14379.6
+869f63ce-4075-4ed3-baa8-520deac4b0d4,2024-05-11 23:37:42,Wireless Mouse,Accessory,EU,24.26
+0a206899-6bf3-4123-8c46-a6ec598b76e9,2023-01-21 00:50:41,USB-C Hub,Accessory,NA,43.08
+f8007e11-9f1d-436c-a8e8-203fad4d477a,2025-04-19 04:08:54,Mechanical Keyboard,Accessory,NA,158.45
+50686482-835d-4602-a29f-3624337be784,2025-04-02 13:03:07,Enterprise Server,Hardware,APAC,16432.31
+3ce6950f-c495-45c0-9099-ebda6c28aa66,2024-08-03 12:00:54,SaaS License (Yearly),Accessory,NA,936.79
+984f42c3-753f-47fc-818c-a8ef6c49dbb2,2024-12-04 13:48:34,Laptop Pro,Hardware,EU,1155.08
+aa8c5ed7-7611-4b84-a6cb-7d8f2d7f9b61,2024-02-28 15:07:28,USB-C Hub,Accessory,APAC,43.15
+d5c104ae-2695-4d4d-b09c-b3f249e28e19,2023-01-11 11:27:59,Wireless Mouse,Accessory,NA,26.64
+33c91fe4-2320-4475-b200-140cbb1ac0b5,2023-04-10 14:54:01,USB-C Hub,Accessory,LATAM,42.26
+51acd11b-b32f-4e5a-ad71-61f71c210582,2023-07-13 05:45:32,SaaS License (Yearly),Accessory,LATAM,912.0
+60957303-bba7-4aba-9df4-b710a5b1f3dc,2024-11-08 17:48:14,Ergo Chair,Accessory,LATAM,419.33
+9734e5e2-96f2-40d3-856d-d931ae1df547,2024-11-19 10:21:46,Mechanical Keyboard,Accessory,NA,137.56
+807b4bb2-ff76-4da7-86a7-91524027b429,2025-05-01 12:28:35,Laptop Pro,Hardware,EU,1245.69
+f8151f80-91ef-44f3-b767-9af9ff7d4a8a,2023-04-02 10:04:34,Enterprise Server,Hardware,EU,14825.74
+b85df29a-b703-4a7f-a38d-b0836ed2ccc2,2025-12-07 04:36:36,HD Monitor,Accessory,EU,319.25
+115aff98-613a-440d-a722-441b73c8bf6b,2025-11-22 11:41:34,Ergo Chair,Accessory,APAC,465.81
+6c3f0342-f255-43de-aeec-d8bec01a9dfa,2024-08-04 23:33:36,Ergo Chair,Accessory,EU,476.34
+539faeff-24ca-458a-b180-36c0bed8ca25,2023-10-15 00:21:58,Enterprise Server,Hardware,LATAM,13820.41
+63cf1d65-ed5c-4675-a375-c552886b89f9,2025-09-11 00:29:12,USB-C Hub,Accessory,EU,44.84
+551f0b7e-943d-478e-a0b2-b445cf303ae6,2023-04-27 05:03:29,USB-C Hub,Accessory,EU,45.08
+68be55ba-0a24-4784-8a5e-fb1b25eed5d3,2025-12-25 01:40:25,Ergo Chair,Accessory,LATAM,421.52
+163c698d-a32d-4250-880c-58bcd8227c49,2025-05-22 01:36:59,HD Monitor,Accessory,LATAM,280.66
+fccd1e49-5f6c-4f5b-a598-90ad29ba6f9f,2023-12-18 15:03:36,Laptop Pro,Hardware,NA,1142.46
+99c33d39-e28c-4307-8222-9bc851585ea5,2024-08-15 23:30:20,Laptop Pro,Hardware,EU,1227.04
+c0529a5b-fc37-477a-bc72-0afcf156f292,2025-07-30 09:56:23,Enterprise Server,Hardware,NA,14875.94
+6f43e440-3916-4453-ac01-1e9c4c9f2ad2,2023-10-02 16:59:02,SaaS License (Yearly),Accessory,EU,977.73
+1767f32d-7840-4ac1-92ec-60777e80f6b2,2025-08-21 01:22:35,Mechanical Keyboard,Accessory,LATAM,135.14
+80d5303c-2e05-4d74-a467-a8d03d0d4645,2026-02-05 09:39:09,Laptop Pro,Hardware,APAC,1102.71
+2a075df6-59f8-4dde-a665-c71082b2180a,2024-10-16 15:46:53,Mechanical Keyboard,Accessory,EU,157.9
+8e2625aa-d813-45e7-9da6-a60bc151b936,2023-11-22 00:40:00,Ergo Chair,Accessory,EU,426.04
+7945a30c-7c66-408c-96a1-1774dc7d088b,2023-01-13 19:51:40,SaaS License (Yearly),Accessory,LATAM,942.69
+bc64e2cf-6d06-4f9f-9e99-5fd8c0e67667,2025-06-15 08:52:42,USB-C Hub,Accessory,EU,46.16
+8ea2a037-0eac-47d8-8ae1-5379efb3044e,2024-10-07 20:35:41,USB-C Hub,Accessory,APAC,45.96
+d5ddbaae-ba3b-4ccc-99f1-3262ad032695,2023-09-11 18:48:26,Laptop Pro,Hardware,APAC,1307.98
+81b1e63b-6107-42c8-9a00-7f043225cd5d,2024-10-29 02:08:15,SaaS License (Yearly),Accessory,APAC,919.43
+cf1f2af7-a5c1-48ba-a90d-006748e30ca3,2023-10-24 11:43:16,Enterprise Server,Hardware,LATAM,15832.6
+3a19a66f-380d-4ebd-af01-da6bbb6e2b74,2026-02-01 14:34:26,HD Monitor,Accessory,EU,290.61
+7c96af85-497b-40e1-a18e-32e3746d036b,2023-08-28 10:48:54,Ergo Chair,Accessory,EU,490.45
+717ef9d3-7233-4480-bcc7-f251e3e65e41,2024-08-25 02:27:32,Mechanical Keyboard,Accessory,APAC,154.3
+f33079fb-34e8-4cca-9b9a-5c998c9d66a0,2023-10-31 19:06:33,Wireless Mouse,Accessory,EU,23.06
+218cee54-340a-469a-9518-8bc978ce4ed5,2024-11-13 12:29:36,Enterprise Server,Hardware,EU,13688.81
+ce280c3e-2586-4ca6-ae53-3e52feec03a6,2025-09-13 08:30:03,SaaS License (Yearly),Accessory,APAC,920.99
+229d7211-97d3-4fa4-88e6-326d9e8b3cce,2023-04-06 23:55:58,SaaS License (Yearly),Accessory,LATAM,954.77
+84cc5031-20ee-4b47-99df-e0bdebbb3a1f,2024-05-29 19:14:26,Laptop Pro,Hardware,APAC,1293.68
+c6cd8315-4934-4edd-bd21-ee39ff2ac4b0,2023-11-15 13:50:41,Laptop Pro,Hardware,EU,1273.81
+9f82bbde-9f7b-405f-8f0f-63b8abc69cd6,2024-10-25 08:57:52,Laptop Pro,Hardware,NA,1239.33
+ee6c5cfc-c08d-49ef-a406-04c7c1e398e1,2025-10-02 19:07:30,Laptop Pro,Hardware,NA,1123.11
+8b2dde31-4193-4a00-a226-c15fa2c2b4fb,2025-01-12 06:17:46,Enterprise Server,Hardware,EU,15824.6
+1568b66d-61aa-4d7a-8aed-70f6e958aa00,2025-07-03 14:58:17,SaaS License (Yearly),Accessory,NA,939.56
+ad08061a-9f39-4219-aa28-01afc415d643,2025-04-18 10:19:12,Mechanical Keyboard,Accessory,APAC,144.86
+8f8ca3e3-b0be-4e6e-81b3-b218632b5e36,2024-08-16 12:39:09,USB-C Hub,Accessory,LATAM,41.16
+e0095d20-7e5e-4bf3-be44-3291997f962a,2023-01-04 18:55:54,Mechanical Keyboard,Accessory,EU,141.66
+4dcc5b2f-6289-4b00-ab7c-f27c6a7909a9,2024-10-23 22:03:20,Enterprise Server,Hardware,EU,15783.78
+fbaba52f-9078-449e-923a-01fcfa50e692,2023-05-14 09:50:22,Laptop Pro,Hardware,APAC,1308.69
+b919963d-a058-495c-bda2-cb883e44f1a6,2023-10-17 03:53:54,HD Monitor,Accessory,EU,325.2
+557e09a7-22da-49d1-9f3a-18bc8851ef35,2024-04-04 06:38:19,Ergo Chair,Accessory,LATAM,490.85
+d5afb351-b064-4bd9-bd7c-dda6f9ff47f7,2023-04-04 18:33:56,SaaS License (Yearly),Accessory,APAC,1039.99
+8b3a0047-92a3-4dba-b2d9-8f21ba46c154,2023-03-24 18:39:13,Wireless Mouse,Accessory,APAC,22.61
+a2256ef9-42e4-4fb9-84fa-b951cb4e3595,2023-09-09 13:27:19,HD Monitor,Accessory,APAC,319.15
+063f7219-0b5c-4501-b789-08cb4585d48a,2024-10-15 04:40:04,HD Monitor,Accessory,LATAM,297.77
+8603b1d9-eb59-43c9-bdda-72d3afb0b7db,2024-05-01 06:15:02,Ergo Chair,Accessory,LATAM,415.55
+4280c4d0-2ab4-4d8f-b686-69e8125d2771,2023-07-30 00:52:15,SaaS License (Yearly),Accessory,EU,908.48
+71f6c486-ebda-48bd-9e13-d980c7efeeb2,2026-01-24 21:08:58,Ergo Chair,Accessory,APAC,417.48
+c2be0c19-e275-4d45-8702-7fe86ce5602d,2023-03-22 19:13:13,Enterprise Server,Hardware,EU,16436.22
+55dc2ca8-c300-4836-8c69-28531daf5e23,2026-01-29 19:20:29,HD Monitor,Accessory,LATAM,318.93
+eb238d87-cf22-4dd0-895f-9bda61c10f3c,2023-06-27 04:41:30,Wireless Mouse,Accessory,EU,27.28
+1db0decd-14cc-45e2-84d9-43db9fa7bae3,2023-08-19 11:56:27,Enterprise Server,Hardware,LATAM,13540.44
+5312c4b6-ddbe-4add-a591-9f8b423b340f,2024-12-30 22:14:08,HD Monitor,Accessory,APAC,325.29
+95ee153a-b88a-45f7-a594-cb815370bb73,2023-08-29 12:05:57,Laptop Pro,Hardware,LATAM,1251.59
+f426d082-c624-4a17-bb25-11876150ca20,2024-10-13 19:53:36,Wireless Mouse,Accessory,LATAM,26.2
+bdc5de23-2f34-41e5-adc3-deba37abe777,2025-07-06 07:09:07,SaaS License (Yearly),Accessory,EU,944.65
+d96fadf8-aa11-4a6d-a6e0-d5fb6cdab02e,2024-01-16 18:02:07,SaaS License (Yearly),Accessory,NA,1087.76
+42cdbbc4-14c8-4716-884b-81f200b345cf,2024-07-09 13:40:04,USB-C Hub,Accessory,APAC,42.33
+f9b0c4a9-a0bb-4d8d-ae25-0101a8a0fdd8,2025-07-01 16:45:20,Wireless Mouse,Accessory,APAC,27.36
+2f7fdd2d-2fc3-4068-b211-fdc3b96d480b,2025-08-12 00:07:59,Enterprise Server,Hardware,APAC,16140.73
+d9bafe5a-0cf1-477e-b569-365ea80837ba,2023-12-28 12:44:12,Mechanical Keyboard,Accessory,EU,152.23
+9fee63b5-b568-4063-b9c7-a966c10430d1,2025-06-08 04:56:05,Laptop Pro,Hardware,APAC,1226.92
+67feb5ad-5d5e-4b21-961e-98d43c2931cc,2024-04-02 14:24:09,Enterprise Server,Hardware,LATAM,16067.69
+dbb17564-7dd7-4f6f-a917-851fef0ff808,2024-11-18 15:58:31,Ergo Chair,Accessory,APAC,484.34
+90736b66-1699-4a59-ab96-f22675a99625,2023-10-10 02:33:39,Mechanical Keyboard,Accessory,EU,135.85
+8e73e8ad-50d1-4b18-8729-22fe655122e8,2025-08-02 00:43:26,Wireless Mouse,Accessory,NA,27.46
+aa0d8375-8b13-4015-a004-87fbcc183ffd,2025-01-14 14:17:40,USB-C Hub,Accessory,EU,49.33
+36eb57e8-4aac-4390-af1f-503342296779,2023-08-16 00:59:30,Mechanical Keyboard,Accessory,APAC,141.92
+3b7cefa3-5903-4e17-b2af-75083276d863,2025-01-14 05:17:26,Enterprise Server,Hardware,APAC,13674.82
+c0532491-22ac-4991-b5b0-c4b60225b8f0,2025-08-15 22:39:14,Enterprise Server,Hardware,APAC,13755.2
+b1631498-403a-4ec2-bdeb-d422b9c6c441,2025-09-07 21:32:58,Enterprise Server,Hardware,NA,16134.6
+70aa75da-b50d-48b1-9bc9-52f835091f5b,2025-08-14 12:46:44,HD Monitor,Accessory,APAC,284.61
+bc8b1bfa-3e6b-4be4-ab3c-5523ffac7635,2025-11-17 02:10:02,Laptop Pro,Hardware,APAC,1253.56
+84918684-e789-465f-a19c-a6eb37025ede,2023-09-05 12:47:58,Mechanical Keyboard,Accessory,EU,164.96
+42790d08-ac71-4f6f-b02b-be415e488d5a,2024-06-12 11:23:11,HD Monitor,Accessory,NA,299.71
+45064d04-a55f-472b-b908-8cd977d4de54,2025-12-01 17:09:46,HD Monitor,Accessory,NA,282.2
+30b31d85-4922-4690-a610-181f8e7899fa,2025-03-04 03:12:22,Wireless Mouse,Accessory,LATAM,23.62
+72b72b1c-1036-4f73-b9e4-f9bd1e3e804d,2025-07-07 21:45:32,Enterprise Server,Hardware,NA,16079.04
+8e24d5b4-cdb1-4f68-af50-41508c3bee61,2025-02-16 22:49:03,HD Monitor,Accessory,APAC,279.34
+9ca4a274-9b12-4c25-a890-59f22ae165cf,2024-04-18 01:24:31,Laptop Pro,Hardware,APAC,1240.69
+ed283bb4-33d7-48fe-8f51-7fa7569cc245,2023-10-18 16:43:16,Wireless Mouse,Accessory,EU,24.77
+4979547b-246f-4833-98ac-6545b0fd237d,2023-06-25 08:03:36,SaaS License (Yearly),Accessory,APAC,1093.47
+f2e6813f-b47d-49e4-9400-071005f915a4,2023-03-26 01:53:59,Wireless Mouse,Accessory,EU,24.67
+7e27dbdf-c326-47e5-ab4d-8b86f51a46a6,2026-02-16 15:26:56,Ergo Chair,Accessory,EU,428.75
+d1798b6c-9e2d-4685-ac5f-dc9872bb56c6,2023-02-22 14:30:40,Laptop Pro,Hardware,EU,1110.85
+9f24508b-c58e-43c6-97c4-34064b04d39b,2023-03-24 15:45:35,USB-C Hub,Accessory,EU,42.93
+797746d5-83e8-442e-ad38-bd59a5b6fc38,2024-12-17 14:37:25,Wireless Mouse,Accessory,LATAM,25.43
+1dfa2bfb-34b4-4642-83ea-e80fd424b93a,2025-08-20 00:20:29,SaaS License (Yearly),Accessory,APAC,1068.6
+79c1fe11-ae34-488b-a492-41336368c98f,2025-10-15 22:01:10,Ergo Chair,Accessory,APAC,428.2
+bf1789a0-6dbd-41ce-b15f-e02e7efdfd02,2023-05-06 05:44:06,Mechanical Keyboard,Accessory,EU,159.62
+e6f951b0-ae48-4eb1-804c-1b082c66d7b7,2026-01-24 18:15:47,Laptop Pro,Hardware,NA,1149.38
+9de48fb4-7f60-48c0-9d7c-172ac61d8bb2,2024-03-18 19:05:43,Enterprise Server,Hardware,APAC,15592.34
+497ab4b8-2d13-4560-9447-27db5529c6d5,2025-05-14 22:39:00,Wireless Mouse,Accessory,NA,24.94
+c4f48db6-482e-453a-8cd9-c8c355b5d2c1,2025-01-09 09:01:42,Wireless Mouse,Accessory,LATAM,2706.0
+64d51436-4e58-4de2-aaa0-f886bb55fe3e,2025-12-13 12:26:51,USB-C Hub,Accessory,APAC,43.71
+cf7ac735-2e64-44ba-8742-d983a18ff7d9,2024-11-28 22:59:33,USB-C Hub,Accessory,APAC,42.26
+9f7d2953-d00d-4ffd-91c2-e49540f72a3a,2026-02-07 18:43:25,Mechanical Keyboard,Accessory,APAC,159.52
+2d7d10da-a49d-4b9c-afe0-5d7d4cd7694c,2025-03-14 23:22:14,Enterprise Server,Hardware,LATAM,15086.61
+5a251ca7-c5b1-483b-978c-9a428c7e30f3,2023-11-07 23:24:46,SaaS License (Yearly),Accessory,EU,938.46
+dee6e66b-3d70-4bb6-aaa4-7315ea23bbcb,2024-08-26 06:30:05,USB-C Hub,Accessory,LATAM,43.8
+10441d70-f223-4811-b04d-53dccf74ecc6,2023-03-21 03:11:57,SaaS License (Yearly),Accessory,LATAM,1044.53
+92e6715f-74a4-440b-9d69-60fa449f603b,2023-01-31 06:54:58,SaaS License (Yearly),Accessory,APAC,1072.83
+220736ad-36a5-4254-a191-359ecb1ea068,2025-01-31 23:13:10,Ergo Chair,Accessory,NA,417.78
+f3ef2751-8f78-4d5e-bf84-ded8950bedec,2024-11-13 14:23:02,Enterprise Server,Hardware,LATAM,15840.07
+adac0844-eba6-4243-a027-a2a86278eb32,2025-07-12 01:41:51,Mechanical Keyboard,Accessory,APAC,150.69
+bd0eb9d4-fb20-4a5f-966d-c9a4693ea566,2023-11-08 10:20:51,SaaS License (Yearly),Accessory,APAC,989.28
+49ac815b-c873-46a8-9615-b46b304722a3,2023-06-07 11:45:43,Laptop Pro,Hardware,EU,1273.36
+bbdaf9e1-e57a-4096-b7e5-32b11bd5dd57,2025-11-15 13:48:37,SaaS License (Yearly),Accessory,LATAM,918.49
+c3dc6bc6-a7ff-4fe1-bebb-03fe6c3ae7be,2023-01-07 08:41:26,Enterprise Server,Hardware,LATAM,15445.04
+0dc19391-e942-47b1-85d0-41a8e8540e85,2023-01-31 11:16:31,Mechanical Keyboard,Accessory,APAC,13640.0
+7b244848-8435-4c24-8874-cf5df0000edd,2026-02-14 11:50:31,Laptop Pro,Hardware,APAC,1311.17
+8676b9b3-6c64-46b6-a9e7-51b26c574ddf,2024-03-05 21:32:19,Wireless Mouse,Accessory,NA,23.99
+5c69cbb0-2c1c-4e46-a10c-72e64ceb2c41,2024-06-12 08:14:50,Wireless Mouse,Accessory,EU,23.98
+3204ef66-8f4a-4a31-8a14-866b6480cd0d,2023-11-12 03:37:19,Ergo Chair,Accessory,APAC,435.83
+def55c1b-6410-4b2b-9636-b49e06de7fe7,2023-09-20 17:50:14,Laptop Pro,Hardware,APAC,1234.22
+21bf0033-17e1-4f23-b7ad-d2dd233d1a20,2024-04-02 13:57:11,Ergo Chair,Accessory,LATAM,418.1
+39160814-77a7-4269-b026-f32f51d5d1f4,2023-05-17 13:07:28,HD Monitor,Accessory,APAC,274.55
+049fdf99-b240-4b36-b2a7-ad405f8f712c,2024-07-07 04:32:50,SaaS License (Yearly),Accessory,LATAM,956.15
+2d2bffc9-3b8b-437b-996b-c5db92f2925a,2025-01-11 22:39:09,Enterprise Server,Hardware,APAC,15434.46
+82dc94c8-6642-4a6a-b49e-ecc8b326614f,2024-05-30 16:54:47,SaaS License (Yearly),Accessory,NA,919.51
+b18a868d-6c2e-4f02-880c-fae5d07ef517,2023-05-29 10:26:11,Laptop Pro,Hardware,LATAM,1222.37
+778ce925-d559-433b-8e99-584ea08a8483,2025-07-02 10:25:32,HD Monitor,Accessory,NA,329.15
+823eb61f-9d73-4588-a2bc-499cb148df0c,2024-06-02 06:22:33,SaaS License (Yearly),Accessory,LATAM,1034.96
+82c2beee-6875-436a-b04f-257b2ba82784,2023-12-22 06:36:45,Enterprise Server,Hardware,NA,13918.59
+bdb7c0e3-d625-4b57-90d4-0c53e6395a0c,2024-12-12 09:05:07,Enterprise Server,Hardware,NA,14842.49
+08a43ee2-d87f-4b9b-acec-2aa63a1f3926,2025-08-01 04:02:25,Enterprise Server,Hardware,EU,15257.79
+5e0f48cb-29b1-4daf-a8ff-2743d5dd69b7,2025-02-24 17:51:01,USB-C Hub,Accessory,LATAM,45.39
+dd3f5321-324a-43d5-b438-c96a5c66b962,2025-01-12 09:53:08,Enterprise Server,Hardware,APAC,15300.86
+cf3201ac-9358-4509-aced-d88a0c1cb36e,2023-07-15 14:18:10,SaaS License (Yearly),Accessory,APAC,967.47
+bfc5db73-2cad-4c1f-b860-65d65dde95fa,2025-07-18 12:27:47,SaaS License (Yearly),Accessory,NA,970.16
+a7329544-cd3e-4dc5-a105-afc8d1e861b7,2023-01-11 05:19:23,Wireless Mouse,Accessory,EU,26.17
+e7a39907-5083-4d7b-a5c3-06bf08f649a5,2025-05-02 23:30:08,USB-C Hub,Accessory,EU,41.82
+c796f82d-cf69-4708-bf39-6c3abccb95fd,2024-05-14 00:14:08,Ergo Chair,Accessory,APAC,476.1
+09c85016-74d3-401d-8b5f-946c4e899059,2024-07-30 20:24:57,Wireless Mouse,Accessory,APAC,25.88
+88e8ffa2-47e7-4716-93a8-8e757562b6da,2023-06-16 05:04:07,SaaS License (Yearly),Accessory,LATAM,1028.31
+0a271989-f328-41c7-916a-4d3ed549942c,2025-11-15 02:07:53,SaaS License (Yearly),Accessory,NA,908.65
+f20de8c6-cf1f-4ac3-810e-1910afb2c4fd,2023-04-26 14:37:07,Laptop Pro,Hardware,EU,1240.04
+ee156dd1-cf1a-43c8-95be-6a6ebdf1ef3d,2024-03-20 17:20:11,USB-C Hub,Accessory,LATAM,43.11
+89d2228d-ccd4-410f-83ca-f388a7adb56e,2024-12-26 04:31:59,SaaS License (Yearly),Accessory,APAC,1007.9
+f09eedf7-3138-4625-96fb-f96455f50ca8,2024-05-04 10:29:10,Wireless Mouse,Accessory,APAC,25.21
+a700ae03-cb99-4480-b232-dbc011f713dc,2024-11-06 21:40:58,Mechanical Keyboard,Accessory,EU,145.99
+e5baa6bd-b6bb-464b-b563-67171368c364,2025-01-13 05:05:29,Mechanical Keyboard,Accessory,LATAM,156.18
+230373fd-d889-4e0d-9dd9-fb9376e20f78,2025-06-02 04:27:44,Mechanical Keyboard,Accessory,APAC,144.95
+ea655687-fbc1-4d3a-a376-e3803c9d06e6,2025-08-20 12:58:57,Ergo Chair,Accessory,EU,463.54
+5964701a-b6aa-43b6-a848-71324d68a529,2023-01-09 18:04:33,HD Monitor,Accessory,NA,287.77
+718e8e91-e3a1-49d7-b735-086d65aba73a,2024-06-24 23:21:44,HD Monitor,Accessory,NA,315.08
+08ecb717-744a-4a86-8b38-eeac35ebefe5,2025-08-14 16:15:50,Mechanical Keyboard,Accessory,APAC,162.33
+657d9c2a-0dd1-43a1-ae55-4abbb0e00a7f,2023-07-19 23:27:44,Enterprise Server,Hardware,EU,14336.83
+729e01cd-d3bf-4854-bda6-6e5c30e397d5,2024-06-20 02:30:19,Laptop Pro,Hardware,EU,1317.42
+75b1ae70-5d85-44e2-a46c-fe33e74bf598,2026-01-14 01:55:09,USB-C Hub,Accessory,APAC,42.89
+a332fffd-3c15-45f1-943e-128ef229bf45,2024-11-28 01:52:49,HD Monitor,Accessory,APAC,296.72
+b1f3d6aa-f682-47e5-813f-88fa178a807b,2023-02-16 18:14:39,USB-C Hub,Accessory,APAC,41.7
+4a6d6903-99d6-4f33-b3a4-1f134097e42e,2023-10-08 05:54:48,Wireless Mouse,Accessory,APAC,26.98
+f2e8fb92-10f9-4f1b-833a-c71b23dd2d52,2023-06-12 09:48:58,Enterprise Server,Hardware,LATAM,14574.92
+8a4819cf-3604-4c69-a156-a52ec0a74ae3,2023-05-10 14:25:34,Mechanical Keyboard,Accessory,LATAM,135.46
+dda33791-7418-42fd-b586-ae37e4657c38,2025-01-26 08:58:38,Laptop Pro,Hardware,APAC,1126.08
+7bb71657-5d61-4592-882c-45df45160d08,2023-05-23 01:20:33,Laptop Pro,Hardware,EU,1103.2
+8216e6b1-3f56-41c7-8bfc-e8aae71dd869,2025-09-30 06:37:58,USB-C Hub,Accessory,APAC,41.33
+f5ec3478-1291-4ceb-beec-87480dd9c28d,2025-03-25 11:15:53,Mechanical Keyboard,Accessory,NA,150.26
+2b68f1c5-7a92-4289-8924-1d577cf0afd1,2025-10-20 12:53:28,Wireless Mouse,Accessory,NA,23.17
+3a5a5592-e3f3-44bd-a265-43c4f20cc2ed,2024-05-16 23:21:51,SaaS License (Yearly),Accessory,EU,1020.64
+8ba133cc-8aa8-44b3-a6d1-45b282bc97bc,2024-05-30 07:02:43,Wireless Mouse,Accessory,NA,22.93
+559a35d5-7f1b-4d9a-a840-d22bc71a89d0,2024-03-29 02:00:09,USB-C Hub,Accessory,APAC,43.41
+55f7b335-e503-42b1-8cf7-e15fc4aaf4ab,2024-05-14 07:49:07,Ergo Chair,Accessory,APAC,448.32
+047c167c-7be7-420d-a96f-4de156a7e174,2026-02-16 03:01:50,USB-C Hub,Accessory,NA,41.97
+1d32bb4e-42b6-4080-a09a-3718ec5984d6,2025-08-03 16:49:18,Ergo Chair,Accessory,NA,461.68
+ba55ed9a-2122-4a88-91da-65e85d22df4d,2024-06-18 02:16:26,USB-C Hub,Accessory,NA,43.46
+57b794c8-dba6-4c7c-8502-2742dcb82c41,2024-11-17 19:41:01,USB-C Hub,Accessory,APAC,46.35
+045fbe3d-194b-44f7-905e-b6b633bb75af,2024-12-23 22:10:58,Ergo Chair,Accessory,APAC,422.51
+7b0106aa-cf99-4985-9ed9-643a9df2969b,2023-02-24 07:51:30,Mechanical Keyboard,Accessory,APAC,157.09
+2b45958a-5542-4772-b436-7ce52f2739ab,2025-11-08 07:30:22,Mechanical Keyboard,Accessory,EU,147.54
+2613bac0-45e7-4736-be06-079695deb3df,2024-10-25 21:09:26,Ergo Chair,Accessory,EU,405.69
+dc89fa05-35de-4c45-98e7-a77b9c5b08ce,2023-01-20 14:57:07,Ergo Chair,Accessory,NA,446.93
+3c0b10c2-1868-4aa1-a324-43d2af9d6f4d,2023-03-08 11:28:21,USB-C Hub,Accessory,LATAM,42.01
+bd77e991-0723-4cf4-a368-9166872027d3,2023-06-23 04:58:56,Laptop Pro,Hardware,APAC,1242.5
+ca705913-4593-401c-ab5b-f3fb4b74b364,2025-10-18 13:23:06,USB-C Hub,Accessory,APAC,48.59
+18862600-5a84-4ad8-af71-1404a0410a56,2024-11-15 15:48:01,USB-C Hub,Accessory,LATAM,45.02
+20c12edd-6184-47d3-9bf4-2e9e28e8e2b2,2025-12-25 22:11:43,USB-C Hub,Accessory,APAC,49.25
+85e2416f-8ada-46aa-bef8-0202ac4788ab,2025-05-03 06:36:53,Wireless Mouse,Accessory,APAC,25.94
+3c8cd4d5-4db8-4b22-8812-7fadff46ae1f,2023-09-24 06:33:18,Mechanical Keyboard,Accessory,EU,151.38
+fe32c77b-752f-4554-8fce-f9c72a0d52f0,2025-07-06 09:55:22,Mechanical Keyboard,Accessory,NA,154.99
+8e63ead8-90da-4863-a242-7e54b8a706b1,2025-06-06 03:05:59,Laptop Pro,Hardware,APAC,1228.74
+3cc49221-333c-4d54-9cba-c0d3cc282f18,2024-09-20 13:53:02,SaaS License (Yearly),Accessory,EU,1019.28
+c502cc19-6ef9-452c-86ef-17777574e0f6,2023-12-27 19:29:45,Enterprise Server,Hardware,LATAM,15129.03
+d816e585-4c73-4b72-9807-5a8b59cabe85,2024-06-05 18:04:05,Enterprise Server,Hardware,LATAM,14516.55
+5898698d-6b78-4efa-80d7-0270f626fba7,2023-11-28 01:47:18,HD Monitor,Accessory,LATAM,299.12
+5fdcf685-394f-426a-a595-b4450637cd15,2025-10-10 02:33:25,Enterprise Server,Hardware,NA,15846.71
+fb81a8c0-3d40-4634-b4df-d5bcb83c0980,2025-06-11 05:04:05,USB-C Hub,Accessory,NA,44.98
+9a695df8-6665-45d0-acfc-fe6ef75042c5,2024-02-06 02:13:25,Ergo Chair,Accessory,NA,439.72
+d5d5ea0a-bea2-42e7-8b49-05b522b9cd1f,2025-03-04 23:42:53,Mechanical Keyboard,Accessory,NA,155.81
+e4e26efa-8c8a-4bfd-b659-e15e2184d220,2025-05-21 23:21:35,HD Monitor,Accessory,NA,327.87
+e6aa3911-6dae-4f69-83aa-3fe503094f54,2023-12-12 13:56:32,Enterprise Server,Hardware,LATAM,15682.42
+41464658-12bc-41ec-be4c-e09baaed33cd,2023-02-16 00:32:19,Enterprise Server,Hardware,NA,16386.58
+ec19783d-fc7e-4a20-9c2a-91554d6e09e6,2024-10-01 18:08:25,Mechanical Keyboard,Accessory,APAC,144.85
+1e7d71fa-e2dd-4eec-b1e0-040dab230a58,2024-05-31 19:51:53,HD Monitor,Accessory,NA,286.75
+724ef725-0b2e-4b58-a8c1-62d7377b6af9,2023-05-21 18:20:06,HD Monitor,Accessory,NA,278.82
+2732e03a-4516-4b02-a126-1f9b73f880f7,2025-04-19 21:19:16,Wireless Mouse,Accessory,NA,23.0
+14946a46-9ef7-4197-b8ab-007666230f81,2024-10-10 19:58:35,SaaS License (Yearly),Accessory,EU,951.52
+95c51c5a-a3dd-4b41-adc5-41c475f02386,2023-04-22 13:22:55,Mechanical Keyboard,Accessory,EU,137.37
+c722e2c1-0d50-4890-ae50-be2dcb1d7ab5,2025-03-23 08:26:05,SaaS License (Yearly),Accessory,LATAM,1095.38
+3802c208-884d-4f5f-8085-7b1aabfa1260,2023-05-23 01:42:29,Laptop Pro,Hardware,LATAM,1304.07
+34e43d5a-bc2c-414a-9489-e55d7e1e1005,2023-09-28 09:06:30,Enterprise Server,Hardware,LATAM,15352.71
+ab034a4a-8aa4-4eaa-9d3a-34e9dc490fb5,2024-05-04 17:56:57,Wireless Mouse,Accessory,LATAM,23.94
+83bcd763-4b7e-4e5f-abff-4c2cf4122202,2025-12-03 11:47:26,Ergo Chair,Accessory,APAC,439.92
+82318631-c46d-439d-b77a-572f0d40fe9d,2023-02-03 16:33:30,Laptop Pro,Hardware,EU,1174.4
+8ba2a2a7-2b00-4ce3-8b40-bb0b56b834a5,2025-12-18 16:14:24,Ergo Chair,Accessory,EU,431.08
+ffd6416c-bfa5-4926-a347-d71f324a8178,2023-10-15 16:00:16,Ergo Chair,Accessory,LATAM,491.28
+a3b4327e-5539-4598-8a5f-df0724d86819,2024-04-20 09:16:45,Laptop Pro,Hardware,APAC,1199.54
+67a000e8-41f8-4250-b396-8ca3d0f43e2a,2026-01-09 09:13:47,Mechanical Keyboard,Accessory,NA,145.82
+91f75cf8-8795-4d76-978a-d3ae7a2d56c2,2024-11-23 13:33:41,Ergo Chair,Accessory,NA,432.78
+72800088-1241-44a0-885d-f72a90b616c6,2025-10-04 05:11:30,Enterprise Server,Hardware,APAC,14081.88
+52586223-5905-41bb-a35d-a5f7d05840eb,2023-12-17 13:02:55,Ergo Chair,Accessory,NA,406.47
+396cfae8-1c6d-49df-9fc2-59e3b4e614cd,2024-12-05 17:15:53,HD Monitor,Accessory,APAC,273.89
+4d88e545-5be8-4a5c-87f9-1fb2f01c613b,2024-01-31 21:11:57,Mechanical Keyboard,Accessory,LATAM,135.41
+4ae767d9-b109-4aa3-9c2b-a1b9b8fcb6fc,2024-08-05 22:13:22,HD Monitor,Accessory,LATAM,276.7
+31580701-1688-4fb8-93aa-15939267aa2e,2025-03-12 21:48:12,Laptop Pro,Hardware,LATAM,1280.03
+8ac5e3f5-d359-443d-8ee7-12d488ed1e80,2025-11-06 00:25:50,Wireless Mouse,Accessory,EU,24.97
+023d7c35-ae34-40bf-8e88-ddc2c12a5154,2023-10-05 16:28:04,HD Monitor,Accessory,LATAM,281.3
+59a0921f-e832-4b48-abfd-1045890746da,2023-11-02 13:06:14,Wireless Mouse,Accessory,LATAM,23.34
+6ef45356-15a6-4565-865c-d4530b67e0ec,2024-09-04 22:06:09,Mechanical Keyboard,Accessory,LATAM,156.05
+0d6687cc-1dba-430b-8579-f6ac19482207,2024-04-22 14:37:27,Wireless Mouse,Accessory,APAC,26.41
+56bf2d74-f538-418a-b994-3b8006c0f509,2025-02-21 02:49:06,HD Monitor,Accessory,EU,322.73
+9b06fca1-860e-4e9a-aef5-4eb5204836d9,2023-06-07 19:32:20,Enterprise Server,Hardware,LATAM,16251.26
+3efa1ca7-393e-4bc8-b7cb-b49c52d437ff,2024-11-27 15:05:40,Enterprise Server,Hardware,LATAM,13602.78
+628653d3-7d08-44e7-b512-cc83b53bba83,2024-04-30 23:24:13,Ergo Chair,Accessory,APAC,428.95
+26cae4ea-2c77-4049-b54f-247fa60bcd73,2024-07-09 13:42:21,HD Monitor,Accessory,EU,307.52
+392dfe0b-ca0b-4f93-befe-6b12e27d9c1b,2025-01-07 22:49:17,SaaS License (Yearly),Accessory,NA,1095.66
+5c41b501-a09b-48f4-af17-b49f536cf8ca,2025-07-12 07:01:34,Enterprise Server,Hardware,LATAM,14423.84
+929279bc-ea70-4294-8de2-ec922059a049,2023-02-27 08:18:50,Enterprise Server,Hardware,NA,15187.94
+b074fc4f-900f-43b8-a994-7da9c0611510,2023-08-18 07:27:23,Enterprise Server,Hardware,APAC,15443.87
+daee3173-47c9-41b5-afa8-f4e3b77960c8,2023-04-14 04:31:20,USB-C Hub,Accessory,NA,44.3
+3e327aaf-3a4c-4fdb-a7ab-4efe495491c1,2023-12-17 16:24:02,HD Monitor,Accessory,EU,280.62
+4b1a4c23-d590-444f-b5d9-13e8f6602066,2025-05-19 15:30:30,Ergo Chair,Accessory,EU,493.18
+4c09d63d-e225-4a64-9da9-2413de654760,2025-11-11 07:07:55,Ergo Chair,Accessory,NA,451.13
+a8945cf6-ac40-4f56-9e48-0bd93435e12d,2023-05-30 10:30:01,Enterprise Server,Hardware,APAC,16197.6
+c95097f3-9ba3-447c-9093-91fb023ac9d3,2023-06-16 07:33:18,Laptop Pro,Hardware,APAC,1253.46
+f843080b-82fc-44c8-af77-3c03e7b5eee1,2026-02-10 21:45:55,Mechanical Keyboard,Accessory,EU,159.94
+007c746f-c957-4cb3-a537-2eea9cc60a4a,2024-07-28 01:33:59,Ergo Chair,Accessory,EU,457.78
+6fae687e-6169-41fd-890f-69c27152ac0d,2024-06-08 00:04:28,SaaS License (Yearly),Accessory,NA,939.12
+9e29fe82-88e9-4b1b-8bec-1ed0352e795c,2024-05-15 17:58:38,SaaS License (Yearly),Accessory,NA,957.03
+0a5ecd68-38a0-416c-ab83-1e31e951e375,2023-12-18 03:56:18,Wireless Mouse,Accessory,EU,24.59
+caf687cf-80fa-4ab2-876a-3b01ee4b8fd3,2025-06-13 09:10:12,USB-C Hub,Accessory,EU,47.88
+950205d3-06b6-448c-a05a-dbea572b2627,2025-01-06 07:25:47,Laptop Pro,Hardware,EU,1242.37
+0821aba1-8349-4339-a2c9-f3f627a0543a,2024-03-29 20:39:29,Enterprise Server,Hardware,EU,13760.22
+ad5623ea-7ecf-47ce-bbaa-2acba547bbf9,2023-01-26 18:19:55,Enterprise Server,Hardware,APAC,13509.32
+f1e550b5-6d59-462e-8fe2-e6d173bb3fef,2025-12-23 20:20:18,HD Monitor,Accessory,APAC,325.67
+2c6a2dc1-1e4d-497f-9d98-63091bb3cd1b,2025-10-24 22:23:26,Ergo Chair,Accessory,LATAM,464.35
+7359d376-9217-4a0b-acab-0849fea16c5d,2023-02-23 18:26:03,Wireless Mouse,Accessory,EU,26.66
+6fc48883-310b-4a15-8987-519ee810d018,2024-07-10 04:30:34,Mechanical Keyboard,Accessory,LATAM,153.63
+9e1fd979-5a4f-41b5-9af2-f4d9e34be70d,2024-05-24 00:25:54,Mechanical Keyboard,Accessory,APAC,146.52
+c6719f98-50f7-403d-9c02-b3ee819f0843,2025-07-16 02:55:44,Ergo Chair,Accessory,EU,473.42
+bf67ccf7-304d-4923-8bbb-7aa2e3a7a3a7,2025-12-13 22:51:46,Laptop Pro,Hardware,LATAM,1204.34
+94977930-4e5c-4233-902f-2770123f6da0,2024-12-21 03:23:22,SaaS License (Yearly),Accessory,APAC,985.47
+72e402c9-0b6a-4f69-865f-8c758c74c065,2026-01-04 20:40:10,USB-C Hub,Accessory,APAC,44.86
+50b594d3-79f7-4ea7-81f9-5c46dd587ce2,2023-01-06 15:39:14,Laptop Pro,Hardware,APAC,1142.7
+410f73b6-bec9-4ae8-851a-1c47d587b504,2023-04-30 14:20:38,USB-C Hub,Accessory,LATAM,47.32
+af225d13-10d9-4680-8291-7d7f6eaca047,2023-08-11 01:31:09,SaaS License (Yearly),Accessory,EU,1006.09
+d2414767-9f25-4cba-b977-9923aa873af9,2024-07-04 07:41:29,USB-C Hub,Accessory,APAC,43.86
+23bf7c69-7de4-4e27-969e-c2abb2a61b0b,2024-11-30 03:49:40,SaaS License (Yearly),Accessory,LATAM,941.72
+3e2b69f5-0d76-4277-b3f8-5febd089ef98,2024-10-06 02:03:16,Ergo Chair,Accessory,NA,417.71
+50c23caa-f3de-4469-aa01-0b5f0631e657,2025-04-20 18:39:15,Ergo Chair,Accessory,APAC,408.69
+760d1bb5-1d61-4377-811b-0bc6897eec8a,2025-04-20 19:30:16,Mechanical Keyboard,Accessory,NA,141.83
+e887e44e-46a9-4a23-9346-9fddd1350ecb,2025-12-07 16:12:10,HD Monitor,Accessory,LATAM,312.75
+3a462ffd-e6e8-4807-b44d-fa1f78ca2414,2024-07-16 21:39:07,Laptop Pro,Hardware,APAC,1114.4
+c05cf43f-96d1-4fb6-8bf6-d6c30a38994d,2024-07-05 19:36:07,Laptop Pro,Hardware,EU,1140.64
+891a6584-7e00-4675-8347-db85ff1950c4,2024-09-11 04:14:26,Enterprise Server,Hardware,LATAM,13511.75
+5098f662-2ced-48bc-8093-3a26de033448,2024-05-24 09:02:22,Wireless Mouse,Accessory,LATAM,27.37
+666f7d5f-cf38-425c-b2fc-6ce61f3ac8ec,2025-02-21 00:35:09,Enterprise Server,Hardware,LATAM,15352.75
+95050ca2-7baf-4ecf-9ff6-23fb3a636606,2025-05-07 20:36:59,HD Monitor,Accessory,APAC,278.69
+4d4cb83d-4c09-46a6-99fb-8ec5728b7be0,2026-02-12 06:49:57,Laptop Pro,Hardware,EU,1243.94
+cd849302-af73-42cf-b5e5-1f7365db6758,2023-05-03 13:30:54,Ergo Chair,Accessory,NA,444.32
+62851f67-7984-4c3e-a46e-ffd61b72b680,2024-10-25 07:27:04,USB-C Hub,Accessory,APAC,42.56
+8e00d576-7184-4eb8-a32b-cf7d6ff14698,2025-02-04 06:02:34,SaaS License (Yearly),Accessory,APAC,924.64
+844b02df-a3c0-41ab-a92a-33abf60808e4,2025-08-26 00:29:31,Laptop Pro,Hardware,LATAM,1214.68
+5ab83623-79bc-47e5-ab72-96fb749fea16,2023-09-20 19:34:12,Mechanical Keyboard,Accessory,APAC,151.11
+ff817f48-8fce-410a-b293-ed793270f060,2025-01-27 16:35:29,Wireless Mouse,Accessory,LATAM,22.79
+bc2b38b4-0820-4dd1-b2b0-e32a974e1fd9,2025-09-25 10:13:34,Ergo Chair,Accessory,EU,428.69
+643a0e3a-3418-4c12-bc17-9c72cd73e56f,2023-04-29 12:52:56,Wireless Mouse,Accessory,NA,23.37
+5bbf8625-818b-43bd-93a2-196d5288a267,2024-04-23 15:02:39,Mechanical Keyboard,Accessory,APAC,151.81
+4ec71555-3753-424b-9f1c-ba7c8e16c737,2025-06-13 12:02:38,Enterprise Server,Hardware,NA,14803.94
+467da521-24fb-4020-9a36-6114213e511e,2024-07-11 19:55:02,SaaS License (Yearly),Accessory,NA,1080.49
+753e483c-ec90-4743-80ec-042088629492,2025-12-24 01:24:09,HD Monitor,Accessory,APAC,283.45
+9bdd49da-374f-48f1-8817-5daded5cd0a2,2024-05-24 12:13:39,Wireless Mouse,Accessory,LATAM,24.39
+028a574d-82d0-4c75-bfed-c23a42ff78a6,2023-07-24 16:20:29,USB-C Hub,Accessory,EU,46.79
+9e37642d-b70c-43fd-a9d5-f772b45b60fb,2023-09-24 17:53:24,Ergo Chair,Accessory,APAC,417.54
+7632c822-0176-4c25-bee9-9387ee22f506,2024-11-24 23:11:50,Ergo Chair,Accessory,LATAM,491.25
+a285a0f4-2f70-4cba-ae17-9d66586e8cd6,2025-04-11 10:21:23,HD Monitor,Accessory,EU,313.16
+b9d8b068-8ada-4b06-bbdd-a3a3f2a5b393,2023-05-05 20:31:26,USB-C Hub,Accessory,LATAM,41.74
+4e7ec3f2-cb38-4371-8bc9-cb56fc289398,2023-02-18 22:59:21,SaaS License (Yearly),Accessory,APAC,1024.4
+19e6c434-1de8-4ca9-a7c8-ea84326590a8,2025-10-20 08:49:54,Enterprise Server,Hardware,APAC,13851.97
+224a8614-3b99-4961-b111-ce3a032cd0cc,2025-10-15 15:31:12,HD Monitor,Accessory,APAC,328.55
+7ad7a878-5227-4f9d-9164-e2b5d633bbbc,2023-05-16 12:45:43,SaaS License (Yearly),Accessory,NA,1015.39
+9b6bd9a7-a8a8-433a-aa27-ac704d00f532,2024-02-24 00:19:03,Mechanical Keyboard,Accessory,LATAM,159.52
+fd718723-9d27-4e42-9008-994a3d804bcf,2025-11-16 01:30:16,SaaS License (Yearly),Accessory,LATAM,1011.64
+d80cfb44-1cfc-48ef-92ec-c285850e5628,2023-10-15 17:05:59,Ergo Chair,Accessory,EU,472.38
+09947328-0ea8-4814-921e-89f9d4988ba6,2025-09-21 08:45:12,USB-C Hub,Accessory,NA,45.54
+38f904a1-d422-4b14-8610-8f1be9bdcaf5,2023-10-09 10:40:02,Ergo Chair,Accessory,APAC,474.04
+aa6d8fa1-5512-41e4-89f4-af7cc5ad3ecc,2023-08-27 08:42:16,Mechanical Keyboard,Accessory,NA,158.89
+5f3bc649-ea8b-447c-8cac-d3660ded3b97,2025-02-16 20:02:26,SaaS License (Yearly),Accessory,NA,972.96
+fd003ccc-064d-4407-830e-28c629fbdd13,2023-05-30 10:57:10,SaaS License (Yearly),Accessory,NA,992.4
+0ac75414-cd2f-45f1-82e3-fd2f0d41c530,2025-11-06 22:50:39,SaaS License (Yearly),Accessory,EU,972.46
+62322479-34d2-4a8f-92c8-9a17962be79e,2026-02-07 04:54:52,Laptop Pro,Hardware,EU,1095.89
+e68e40bb-0430-429c-86da-2878f6a3eafa,2025-08-30 06:36:08,SaaS License (Yearly),Accessory,LATAM,1057.46
+50802f49-0aca-486b-85d2-03443b52280f,2023-02-06 20:35:01,SaaS License (Yearly),Accessory,NA,1097.49
+70577234-2714-4876-b443-98d3df6ebecc,2023-07-09 09:57:50,USB-C Hub,Accessory,LATAM,40.97
+6807bf1f-34a0-45fc-9798-7ec91c1f91d5,2025-04-22 00:25:58,SaaS License (Yearly),Accessory,NA,1006.85
+29c7b538-f19a-4050-80b3-4a8a28b3cd6d,2023-09-08 06:46:32,Wireless Mouse,Accessory,LATAM,22.83
+a63a8992-7746-416d-ab91-6ecddd691fdc,2023-09-04 17:09:37,Mechanical Keyboard,Accessory,LATAM,137.73
+fb6a45a0-6a27-48ff-903b-fdab79358f69,2025-04-26 06:50:01,Laptop Pro,Hardware,APAC,1204.74
+e6cf0991-c975-419a-bcb6-01c0a8291430,2024-06-23 16:11:05,USB-C Hub,Accessory,EU,45.58
+3754b495-6c35-49f0-82b3-ab28d621f272,2023-11-21 10:31:27,USB-C Hub,Accessory,EU,48.22
+27198e57-9245-445a-aa6e-fa88cbadbb5f,2025-09-22 22:33:46,Enterprise Server,Hardware,NA,14053.67
+4934b79b-a022-4a84-bd2c-f17dce598489,2024-01-17 12:18:11,HD Monitor,Accessory,LATAM,319.62
+f06dade3-5625-43a0-ad0d-8e711d6c3397,2023-01-09 09:09:20,Wireless Mouse,Accessory,APAC,24.61
+ff2c0a9b-4e6d-43db-8b41-9700bcf78d91,2024-11-14 23:57:59,USB-C Hub,Accessory,APAC,48.71
+aa53bcf0-30e6-4171-813c-a978e442fe8b,2025-07-18 04:25:37,SaaS License (Yearly),Accessory,EU,1062.0
+f1be5205-9e7a-4426-bc08-45a91f3c5e16,2023-03-30 05:53:17,Ergo Chair,Accessory,NA,420.31
+15c2357a-ebd0-4eb1-a06c-bf504827662c,2024-03-01 18:21:52,Enterprise Server,Hardware,EU,14146.72
+70832d72-1090-4b0a-baaa-73f877cc3ab6,2023-05-21 17:11:51,Mechanical Keyboard,Accessory,LATAM,157.79
+41ad4747-68e7-4289-8eed-0c0c25e5cded,2024-09-27 03:06:03,Wireless Mouse,Accessory,APAC,23.79
+12d2ee72-e591-4d13-93ef-735891f72c68,2024-02-11 15:23:16,Laptop Pro,Hardware,EU,1217.03
+859d9899-36e7-4953-a4cf-f83e87098f27,2023-08-25 15:13:07,Mechanical Keyboard,Accessory,APAC,140.67
+e02b2885-8e79-425e-9cf0-e5cfca9239d3,2023-11-21 23:56:28,Wireless Mouse,Accessory,NA,25.84
+0812ffbd-1230-48d8-a56d-a0c41711e634,2025-07-28 16:58:41,USB-C Hub,Accessory,LATAM,43.03
+7affb2ab-ecf7-4653-823b-bc803c35e210,2025-03-01 08:51:58,SaaS License (Yearly),Accessory,NA,1044.3
+0120c720-cf78-4361-befc-332605600741,2025-07-12 11:59:14,SaaS License (Yearly),Accessory,NA,974.33
+7fe2b9d5-39b3-4e4d-8773-84f2d60c7d74,2024-07-25 05:50:21,Enterprise Server,Hardware,LATAM,14011.53
+52ee096f-b34b-40d0-9fcb-5fc79b1c8b14,2024-05-11 03:06:54,HD Monitor,Accessory,EU,274.12
+450e5c7e-2951-4227-847f-b3cafcf83fed,2024-03-03 07:43:23,Ergo Chair,Accessory,LATAM,409.95
+7f16fdab-4697-405d-8eb2-ca94d3484e09,2024-03-30 17:00:43,HD Monitor,Accessory,LATAM,318.76
+1c52f2b9-589e-466c-9057-73ddcdd3b242,2024-11-10 13:26:05,Ergo Chair,Accessory,APAC,410.05
+84644a40-de67-4651-8d30-8516c706a196,2024-03-21 08:04:43,Laptop Pro,Hardware,EU,1292.47
+dd5448d5-b5a9-45a0-83e7-75c3bd546171,2025-07-29 03:59:35,Wireless Mouse,Accessory,APAC,27.38
+f786e22d-6842-4276-a0d0-cd708e51a979,2023-01-31 17:15:30,Enterprise Server,Hardware,APAC,13931.4
+b8f45b47-8d11-42f0-ba95-bdfa4d9af985,2024-08-14 10:33:52,USB-C Hub,Accessory,EU,46.48
+50f15aa5-f5ff-4a12-b79f-8eaf68ca170b,2024-02-11 03:28:16,Wireless Mouse,Accessory,NA,24.17
+0dcfb8a9-e745-4636-9720-860640b8bf2c,2025-08-18 07:52:23,Mechanical Keyboard,Accessory,EU,148.17
+58f78a90-e866-41e9-a944-c480433bb02a,2024-04-06 19:00:52,Enterprise Server,Hardware,EU,15445.08
+74593500-8921-43b3-bc58-fa620ccc5c6b,2024-06-24 23:18:32,USB-C Hub,Accessory,EU,47.56
+f84b6eb4-44e5-4cb0-b99f-8c9f1e598275,2024-07-14 13:19:53,Ergo Chair,Accessory,LATAM,422.71
+ce6b6a5f-5d18-4bda-a9d2-08176740ac24,2023-05-29 15:58:55,Enterprise Server,Hardware,LATAM,15550.14
+267d2659-cb6a-4cce-8e1b-5a35fcb2eb4f,2023-10-25 21:45:36,Mechanical Keyboard,Accessory,APAC,138.66
+559c0763-dfb3-4650-a70d-cdb8c05c2cb8,2023-08-23 09:45:19,Laptop Pro,Hardware,APAC,1166.57
+5dedf431-8e05-429c-9ef3-13c123d5d27a,2025-07-28 12:16:34,USB-C Hub,Accessory,APAC,47.14
+67855855-98fe-4252-8bc3-e64517dfe367,2026-02-04 05:48:42,SaaS License (Yearly),Accessory,NA,924.3
+0c0aff50-abfc-430d-81de-c693ffdd635e,2024-02-18 09:49:27,SaaS License (Yearly),Accessory,LATAM,942.8
+9f804015-25b2-4409-ab3b-35ac2e1fee29,2024-01-26 04:50:00,Laptop Pro,Hardware,LATAM,1130.74
+7ae4c114-fe42-4f2b-8385-dc1c3c8503de,2025-11-12 02:43:38,Ergo Chair,Accessory,LATAM,423.9
+ac667ffc-7c46-481f-add8-27fd20728d69,2025-07-22 12:38:05,SaaS License (Yearly),Accessory,APAC,961.89
+eeae71ca-1791-4d6e-b3e9-85504625e25b,2024-03-20 08:51:32,Wireless Mouse,Accessory,EU,27.49
+0e5f054a-0d65-49c5-8a15-fec447601235,2023-09-13 04:41:37,Laptop Pro,Hardware,EU,1205.09
+c41ccde9-235b-48f1-9df9-fc4a9d31ecfb,2024-07-31 07:24:40,HD Monitor,Accessory,APAC,313.28
+e20f1b95-c2d1-4def-ab9e-245a3691ae05,2024-05-30 09:27:45,Laptop Pro,Hardware,APAC,1173.54
+a36847ab-46e9-4d86-ad77-d8cff284dc0a,2024-12-05 21:34:37,Wireless Mouse,Accessory,APAC,27.15
+ba401a02-7dc0-4cfb-a301-76c6e32ef315,2025-09-11 14:04:21,Wireless Mouse,Accessory,NA,26.68
+b2db50bc-d99d-47e4-9654-fa87e03e031d,2026-02-16 18:45:12,Enterprise Server,Hardware,NA,14974.8
+e065d01b-4bda-4032-89f1-416ad921cb9d,2023-04-10 04:02:45,Wireless Mouse,Accessory,LATAM,24.16
+4fe5268a-70cc-49b0-8f71-c4b5d78f01ba,2023-11-17 02:36:37,USB-C Hub,Accessory,EU,46.36
+a43bb50c-efe9-401c-8c73-d835fc37ea6a,2023-02-08 02:00:20,USB-C Hub,Accessory,LATAM,42.34
+c8977316-5e60-401a-8891-7c6a98ac2997,2025-10-09 14:47:50,SaaS License (Yearly),Accessory,APAC,902.69
+2995573d-8d5a-4b05-9dad-95c2b3ebc1d5,2025-10-08 15:08:38,HD Monitor,Accessory,LATAM,296.81
+467b6cb8-a3b0-4340-994d-39b4e9b9a6ac,2024-09-07 07:25:11,HD Monitor,Accessory,APAC,327.35
+dfa5967c-bd70-429a-bb5d-d2b3b2e817ec,2025-11-18 00:12:14,SaaS License (Yearly),Accessory,EU,912.99
+2fff2f83-e94f-412e-8e67-a1a07dfe22d8,2024-06-29 23:19:51,Wireless Mouse,Accessory,LATAM,23.28
+1765d467-f257-4ac6-8e55-7346e6bbda18,2025-12-16 21:45:19,Laptop Pro,Hardware,LATAM,1252.73
+f8ecc86d-8c28-4e6e-b4b9-a11c5a10eed1,2025-02-17 07:32:07,Enterprise Server,Hardware,NA,14733.16
+50f0b069-da5e-4dfc-9a84-b359478428fc,2025-04-03 11:00:30,Laptop Pro,Hardware,LATAM,1108.24
+3b31f920-2659-4734-ac10-1b043429419b,2025-06-09 04:34:24,SaaS License (Yearly),Accessory,APAC,1071.87
+63b3c62c-f42e-4974-be6b-92760214a13a,2023-07-25 19:29:40,Enterprise Server,Hardware,LATAM,13590.24
+275c5a46-f446-4960-8b30-9c05fc38c877,2024-06-26 20:26:14,Ergo Chair,Accessory,APAC,421.77
+4ff899ca-fea3-4eb9-be4a-06e64d4a67ce,2025-01-23 07:30:42,Wireless Mouse,Accessory,APAC,22.89
+72ff2938-345b-49fa-88f2-cfadc4e822ea,2025-07-11 12:12:20,USB-C Hub,Accessory,LATAM,42.03
+de75b444-c37b-4538-bd38-e207b0c17486,2024-12-04 22:55:47,Laptop Pro,Hardware,NA,1207.01
+c13aeff0-5bb6-4600-851e-1586473cdc0a,2023-11-10 06:06:31,Enterprise Server,Hardware,NA,14876.55
+dcc22981-7172-4ff3-87ef-92eb0c263286,2024-08-27 18:57:45,Wireless Mouse,Accessory,NA,25.99
+16aa2825-a01c-4be6-be8f-bc51011684af,2023-09-16 07:17:05,HD Monitor,Accessory,APAC,330.0
+d7727ad9-9c1a-4fd7-945a-11c06ff24209,2023-02-01 09:03:46,Laptop Pro,Hardware,LATAM,1253.02
+ff35f3ff-7b10-457c-a4bb-60323e6aa7a5,2023-07-27 21:47:05,Ergo Chair,Accessory,LATAM,408.59
+6dde5655-9ec6-4769-b880-2bbc696dda52,2025-11-19 18:21:44,HD Monitor,Accessory,LATAM,319.4
+4a8799b0-2784-4b13-9544-1b6a9b7c495b,2023-05-05 21:00:50,Ergo Chair,Accessory,NA,489.77
+9c1fbd85-b559-4522-a9d6-921f001f8019,2024-04-11 01:27:13,SaaS License (Yearly),Accessory,EU,960.19
+18c554bc-65d9-4cfb-8315-65eeda60c710,2025-12-18 13:56:30,Ergo Chair,Accessory,NA,489.67
+42857a66-d754-457e-9503-f776ea068766,2024-01-22 17:49:03,Laptop Pro,Hardware,NA,1301.82
+419c9633-2046-4657-84a5-3bbb698b26f0,2024-11-04 14:09:18,Mechanical Keyboard,Accessory,EU,139.58
+08e34e8b-54ab-42d0-a59e-d3f1f42c1c56,2023-03-27 17:40:04,Wireless Mouse,Accessory,LATAM,24.67
+a6815727-87f2-438d-9f47-0223db8152f7,2023-06-29 03:18:43,Mechanical Keyboard,Accessory,APAC,163.19
+77de520e-3154-488f-acdc-a1b284f71e53,2025-01-15 08:26:07,HD Monitor,Accessory,NA,303.32
+dced782b-927f-4621-84b7-546e4b1cb997,2024-04-30 02:30:08,SaaS License (Yearly),Accessory,APAC,902.88
+6aef5197-074f-4660-a834-ca7c1fced793,2025-11-10 14:44:44,SaaS License (Yearly),Accessory,APAC,902.64
+0ad60ca5-b5c2-4688-9154-cdd3831f5277,2023-09-09 19:19:46,Ergo Chair,Accessory,LATAM,487.24
+74e9a142-c570-4602-98eb-24ce54d78ee7,2023-07-01 07:53:43,Mechanical Keyboard,Accessory,NA,138.76
+8d644a3a-d689-416b-8def-7e4438c3de3f,2023-04-23 18:24:33,SaaS License (Yearly),Accessory,EU,1045.61
+20b8d568-8716-4592-8e9e-86ed3994cc37,2025-11-21 05:02:48,USB-C Hub,Accessory,EU,49.26
+66bf161c-28ee-44a7-9f7b-41756743f031,2024-05-29 10:06:48,Ergo Chair,Accessory,NA,417.84
+bf269060-3fc0-4237-b940-dd33e6852ebf,2023-08-27 06:58:50,Mechanical Keyboard,Accessory,LATAM,156.17
+c3529907-c38f-4d35-8dec-4bc11e159b14,2025-11-30 10:35:41,Enterprise Server,Hardware,LATAM,15390.14
+b216294f-21d0-4435-a372-5a375c066d18,2023-04-23 00:42:37,Enterprise Server,Hardware,NA,15345.99
+f1c7e444-ee37-437a-a417-2e6591bf440e,2023-10-11 19:43:24,Laptop Pro,Hardware,EU,1106.09
+c792dfa4-641a-4130-884a-089dbdd2e312,2025-07-28 13:47:32,Mechanical Keyboard,Accessory,APAC,143.15
+6a58e745-cbf2-4695-8cb7-3a7433d191d6,2026-01-25 09:59:02,SaaS License (Yearly),Accessory,LATAM,1033.76
+14826e71-6312-476a-8fc6-e9995a45b0f6,2025-04-01 11:23:35,Mechanical Keyboard,Accessory,APAC,139.78
+b101680e-8942-42b8-a0d7-ea10ef6a98e2,2026-02-11 04:34:18,USB-C Hub,Accessory,NA,41.34
+56d9d66b-12c2-4997-8731-20f5c8f48824,2025-11-18 21:41:28,Ergo Chair,Accessory,EU,460.1
+1e227fca-66fe-48e5-b65a-8d01da30f91e,2023-08-30 03:10:53,Laptop Pro,Hardware,LATAM,1229.0
+740b771c-e0ca-4333-a12d-f013e071e835,2024-12-21 01:44:36,Enterprise Server,Hardware,EU,15527.24
+1f7e6d5b-0d4f-46a8-b50d-9ade995bca24,2023-09-19 16:06:02,USB-C Hub,Accessory,LATAM,42.59
+23f8c11e-b712-40b9-8447-4eabf0d8ece9,2025-12-17 13:13:49,USB-C Hub,Accessory,APAC,48.86
+89bcf515-1db9-4d4e-b881-d4d1a41d6eb0,2023-12-05 09:36:12,HD Monitor,Accessory,NA,282.88
+d1e06bc9-a6b8-492a-8f26-d2e3106f6d0c,2023-10-07 23:35:44,USB-C Hub,Accessory,EU,43.81
+f288aee0-a8a8-461f-994d-b050dccec9b5,2026-01-31 05:12:35,SaaS License (Yearly),Accessory,EU,931.3
+eb1844f5-d023-413d-a216-78168c2a530a,2024-08-31 09:49:36,SaaS License (Yearly),Accessory,APAC,941.51
+2be77f33-c105-4403-9a49-624bdaf7df31,2025-12-27 00:36:36,SaaS License (Yearly),Accessory,NA,920.16
+57268aba-e47a-4d12-8cf3-9aea98a9eb9d,2024-09-14 13:50:43,Mechanical Keyboard,Accessory,NA,161.22
+0045d151-edcc-4180-a707-905c71caaee4,2023-09-19 04:33:36,HD Monitor,Accessory,LATAM,284.55
+f6c73d82-1b44-4f54-b5f2-7a06a41bf9f2,2026-01-01 16:02:36,Wireless Mouse,Accessory,NA,26.81
+0c58366f-05c4-4bef-9b2c-6d64115e0fc3,2023-01-18 08:22:58,SaaS License (Yearly),Accessory,LATAM,98140.0
+2140ee8c-cbc1-4499-8f89-78761d5f8310,2023-05-12 00:43:14,USB-C Hub,Accessory,LATAM,4395.0
+654bcae8-97d0-4e19-8e84-96ef660e157c,2024-11-29 16:10:39,USB-C Hub,Accessory,NA,44.66
+da419037-19bd-4324-926c-042ee1673b8c,2024-08-14 20:31:09,Mechanical Keyboard,Accessory,APAC,135.71
+b594ba7e-6dfc-487a-8bb3-bc4efe9dc60d,2025-07-16 17:39:49,Enterprise Server,Hardware,NA,14822.93
+0c0f47f0-cfd0-456a-a75c-9ee5425ac493,2023-07-23 07:36:18,Wireless Mouse,Accessory,EU,23.94
+2943855d-b0b2-4fd5-9a71-42622071d9a3,2025-02-02 11:14:10,HD Monitor,Accessory,LATAM,284.21
+7b78c7aa-5dd9-40e6-82b4-71fc83e8a314,2023-04-23 08:28:14,HD Monitor,Accessory,EU,286.71
+2750c6f4-e7a9-4f2e-a683-4383a5b488ec,2026-02-11 00:10:27,HD Monitor,Accessory,EU,295.0
+37ccf375-591d-48ab-8108-31b4eb1854d6,2023-04-07 12:24:04,Mechanical Keyboard,Accessory,EU,135.54
+b9980b48-9997-4e47-8b30-cf02f7745a48,2025-02-24 16:34:48,Wireless Mouse,Accessory,NA,25.62
+d0422959-2dee-43dc-b687-7799eaa31c9a,2023-04-19 16:24:42,Mechanical Keyboard,Accessory,APAC,149.72
+13a54dbe-11a6-4858-9938-338fec721d70,2025-04-03 08:11:58,Mechanical Keyboard,Accessory,EU,164.94
+7a6aa4a3-166e-4fa5-94a6-0100703fe8e1,2023-02-27 13:57:39,Mechanical Keyboard,Accessory,NA,156.34
+a14cd775-ba70-4872-a9a6-9d29739570e0,2024-02-07 16:37:47,Laptop Pro,Hardware,EU,1276.71
+b66de188-f9a8-4944-ab94-39e23ea90a62,2024-04-20 23:29:42,SaaS License (Yearly),Accessory,APAC,1059.89
+c8c19d88-1cca-4ccf-bc10-1f7deb8fb4ef,2023-05-20 15:26:34,USB-C Hub,Accessory,APAC,44.23
+a3bded5e-81c6-46e9-a8ba-90f110a69bbd,2025-06-18 19:13:14,Mechanical Keyboard,Accessory,NA,153.08
+6353b4d7-9550-4787-8348-f3154e514763,2025-11-28 06:34:38,SaaS License (Yearly),Accessory,LATAM,1064.95
+4acc6a78-905f-40bc-ac12-de5f7426cb8b,2025-05-05 23:11:46,USB-C Hub,Accessory,EU,42.87
+27970f20-5d66-4cbc-b47e-b04e83b659c1,2024-08-25 12:53:33,Wireless Mouse,Accessory,EU,26.8
+b8b8ae5d-c481-4076-81a3-4ba0a03fc644,2023-08-24 00:11:02,Mechanical Keyboard,Accessory,NA,160.84
+f474ddb7-93ec-41f1-9c44-daa8bff5fdb2,2026-01-14 22:23:10,Enterprise Server,Hardware,LATAM,13842.67
+3edeac7d-3a0d-4ff0-bf3a-35b423ac052f,2024-12-02 01:29:29,SaaS License (Yearly),Accessory,EU,921.29
+c6d16caa-dcf2-4652-aca7-2b613c22ce18,2023-04-30 20:24:12,Mechanical Keyboard,Accessory,EU,154.54
+0afae048-bc90-4ad9-9853-7291d4ac8893,2024-08-30 17:35:19,Laptop Pro,Hardware,LATAM,1317.86
+63629056-5f82-40ee-a597-5660a2558531,2024-01-10 08:57:16,Enterprise Server,Hardware,LATAM,15151.59
+6cfb7b3c-44df-40fe-aa78-89f3ec38a4dc,2023-09-19 10:13:46,HD Monitor,Accessory,APAC,316.45
+420be4d7-18c2-4a1c-80cd-50e213a18c1a,2024-11-24 01:42:32,Ergo Chair,Accessory,APAC,465.29
+915ad351-ae92-4c3d-8171-efa543d5310b,2024-09-14 00:10:37,HD Monitor,Accessory,NA,324.75
+a5c2942f-a17e-473e-aa79-3dfd2bae0c66,2023-02-08 06:44:47,Ergo Chair,Accessory,LATAM,440.19
+419017bb-9aaf-457a-ba22-d550cda8a02e,2025-12-11 09:48:32,Laptop Pro,Hardware,APAC,1279.44
+7c3d57a8-dfd9-49f5-bbe0-ecfb5d7c4a7e,2023-01-16 04:33:04,Ergo Chair,Accessory,NA,410.75
+35cf7ae2-1098-4fc4-93de-d8174aa1fb7a,2024-08-10 01:48:10,Wireless Mouse,Accessory,EU,24.52
+f3f7c41c-bb7a-4300-8a53-5f7cadb04039,2024-11-14 01:12:56,HD Monitor,Accessory,NA,298.0
+a9b5afa4-9306-42fb-8334-75a35585699b,2024-03-18 14:14:35,Ergo Chair,Accessory,NA,447.33
+a786b339-4f93-4574-9a0c-1130dd3d7ff0,2024-10-19 16:30:30,USB-C Hub,Accessory,LATAM,44.07
+e95226f3-02ba-4f19-a73a-d7c97ada29d8,2023-08-12 02:35:37,Ergo Chair,Accessory,NA,467.49
+fcdc47e3-29b4-4f83-a441-d36f7f9ca610,2025-05-18 07:48:25,Mechanical Keyboard,Accessory,NA,159.15
+36f90a4b-9a96-4861-84ce-3b09ef889e9c,2023-10-09 02:44:25,Laptop Pro,Hardware,LATAM,1139.26
+eeae058d-abcd-4188-b4b3-1447f1993391,2025-08-08 13:15:28,HD Monitor,Accessory,NA,285.32
+e503f4dd-baf8-4cce-934c-edfef8a65cb5,2023-06-22 15:06:41,Enterprise Server,Hardware,NA,13801.87
+95ad821a-4dc7-40f8-8cee-45a63b915b3d,2025-01-03 12:08:32,Laptop Pro,Hardware,LATAM,1132.06
+592c99b0-6000-4fb4-b0d2-62c2e3a34874,2025-04-06 20:48:32,HD Monitor,Accessory,NA,288.04
+aee1ed12-d19c-44d7-b233-3206748f90c8,2024-12-14 20:50:31,Mechanical Keyboard,Accessory,EU,138.33
+a8f05f7d-c329-4c50-b8ea-ee1f707d1242,2025-06-01 02:06:40,Enterprise Server,Hardware,LATAM,14416.19
+00eb024b-15ae-48c5-9ffb-a31f06f90cb8,2025-11-18 08:49:16,HD Monitor,Accessory,NA,277.43
+338a336f-6487-4a64-9a34-a90072356375,2025-09-07 09:30:35,USB-C Hub,Accessory,NA,46.89
+804881df-f3be-4892-bc6b-5c312652c534,2024-06-23 11:14:33,Ergo Chair,Accessory,APAC,455.11
+4972ce6c-74aa-46f4-a257-6778c21ee02e,2025-04-18 10:42:12,USB-C Hub,Accessory,EU,42.68
+90670dfe-9f69-44cc-ab1d-4a976c320b88,2024-03-05 09:55:31,Mechanical Keyboard,Accessory,LATAM,136.54
+3f0e5f5b-6d00-42b3-85fd-665790806ac4,2024-07-31 22:21:05,Mechanical Keyboard,Accessory,LATAM,155.49
+4d2dd9e1-3b1b-4019-85cd-3981eb65f29c,2025-04-21 16:22:26,Laptop Pro,Hardware,EU,1278.35
+6d65075e-6b01-45f2-b6c4-daae975a9ae7,2023-03-05 11:51:08,HD Monitor,Accessory,EU,275.46
+7f5b1e4c-2e6e-4427-9fb7-724146786b13,2024-06-23 09:15:55,Wireless Mouse,Accessory,NA,24.88
+ff4ea249-ddbd-4abc-b60d-25c9735c9ec6,2024-06-19 02:49:39,Laptop Pro,Hardware,EU,1142.09
+d4a6d15f-47a6-444b-ab11-943c13abc0f4,2025-11-23 15:35:00,Laptop Pro,Hardware,NA,1116.27
+268f6828-5808-446a-9f73-765ea22acd4c,2025-09-02 05:30:07,Wireless Mouse,Accessory,NA,22.57
+10411e3c-2f24-4511-ace5-7e62fca7e190,2025-05-28 18:54:17,Mechanical Keyboard,Accessory,LATAM,135.94
+4ea63d9b-1da9-4cd0-9ae7-86890090e7e3,2024-09-27 05:29:06,Enterprise Server,Hardware,EU,14875.32
+a98fef57-af49-4475-8c3f-98a26927caab,2024-12-20 05:35:22,Wireless Mouse,Accessory,NA,23.7
+a6a7e387-b288-40f7-938d-6b8505b3e46e,2024-03-16 21:16:19,USB-C Hub,Accessory,EU,48.14
+2e1c9f04-ded2-4ea8-a2ae-7fde6da46fd9,2024-09-01 02:02:55,SaaS License (Yearly),Accessory,EU,1038.23
+f9cb6edf-2013-4655-a3a5-9d7acc2691a9,2025-05-10 00:14:17,Mechanical Keyboard,Accessory,LATAM,144.39
+9c73b9f8-f2bd-4179-a1ce-433995dcec75,2023-08-07 21:38:27,Wireless Mouse,Accessory,EU,22.71
+ff5cf541-486f-4efc-985c-d0a39fd3621e,2024-02-24 14:12:36,HD Monitor,Accessory,EU,326.25
+a00a689c-38e1-4179-8f02-893360ef4d7e,2023-08-07 02:31:23,Laptop Pro,Hardware,EU,1198.26
+6156ac70-ca15-4534-ace1-0a4325ba81dc,2025-02-16 18:52:57,Enterprise Server,Hardware,LATAM,16115.36
+af42fef9-6845-484c-a7b6-2b58c09c6925,2025-11-08 02:10:42,Wireless Mouse,Accessory,LATAM,23.21
+b3fdb6ad-b277-4423-88bd-63aa393f4a26,2024-02-24 21:50:40,Wireless Mouse,Accessory,APAC,26.54
+1240b001-468a-40cf-8d9f-b14964ef967a,2023-09-27 16:08:50,Wireless Mouse,Accessory,LATAM,24.95
+1445aa84-3425-4e91-a358-fb66c39f9334,2025-03-07 12:04:49,Laptop Pro,Hardware,EU,1316.13
+eb715070-80ce-4463-afc2-f17b24d81065,2024-08-23 02:19:51,HD Monitor,Accessory,APAC,273.98
+4489b380-7a6a-400f-89db-f1711e218ba5,2023-03-30 14:02:29,SaaS License (Yearly),Accessory,EU,965.35
+7495b319-3443-4db2-8b57-9dcb1d4fdc01,2026-02-16 13:58:29,Laptop Pro,Hardware,EU,1291.77
+d6f2034c-f55f-4ea0-857f-8ecc825ead70,2024-08-09 13:40:00,SaaS License (Yearly),Accessory,LATAM,976.9
+4523539c-b6b6-4239-8cc1-4ffbae18460f,2024-05-13 11:54:51,Laptop Pro,Hardware,EU,1319.21
+943a757a-881e-4705-afb3-ff4fbd11d51a,2025-07-29 06:46:20,Laptop Pro,Hardware,APAC,1229.01
+7c8c1f5b-116b-4df4-97d5-a46d8d28163c,2024-07-06 22:48:58,HD Monitor,Accessory,APAC,303.33
+63339e6e-f1bc-4a9d-b90d-23226fff25d5,2026-01-21 19:02:23,Enterprise Server,Hardware,LATAM,16000.61
+d67eed20-3daa-41ec-8ea4-25be15613bae,2024-12-25 21:49:23,Wireless Mouse,Accessory,EU,26.39
+6a1a200c-1512-440d-8ec3-987e228bd211,2023-12-16 18:27:47,Laptop Pro,Hardware,NA,1184.62
+190a2eec-00b2-40d1-b11d-0f15cd0928f6,2023-04-03 02:29:07,SaaS License (Yearly),Accessory,NA,1017.53
+4e761d52-73d6-4acf-8288-bb5acf46ff55,2024-09-13 21:21:49,SaaS License (Yearly),Accessory,APAC,986.52
+92c5d72f-b76f-4c14-8cd7-5a9f5a58652b,2023-02-28 14:45:34,Wireless Mouse,Accessory,APAC,24.32
+3aa97aec-3e55-4a50-a7b2-2f72fef90e5e,2024-06-14 04:26:03,Wireless Mouse,Accessory,EU,23.25
+185848bd-0337-4358-bcfe-2058e3e50225,2023-02-28 10:28:08,Ergo Chair,Accessory,EU,448.18
+b91213ad-7dd3-4ed2-ad81-01c0cecda212,2024-02-03 00:29:29,Enterprise Server,Hardware,APAC,15171.49
+4b1655c2-b00d-497d-9a3a-6ed19ecf9f40,2024-01-21 10:59:21,SaaS License (Yearly),Accessory,LATAM,990.85
+6870ca08-40b2-4cfa-a0d9-4976e52a2083,2023-10-19 20:13:57,Mechanical Keyboard,Accessory,LATAM,140.19
+6c5e7eff-b273-4f3e-8058-6bef38b678db,2024-03-03 01:52:59,Mechanical Keyboard,Accessory,NA,140.62
+53b4fb94-fee0-4271-81be-d014eab61c5c,2025-05-16 03:31:46,Mechanical Keyboard,Accessory,LATAM,136.27
+460052af-3978-46bf-a9c7-d54165fd245f,2026-01-27 19:07:01,Ergo Chair,Accessory,LATAM,465.54
+ccaa990d-bf39-4b3e-8b05-aef2109c819c,2025-03-04 23:04:26,Mechanical Keyboard,Accessory,LATAM,164.54
+733fbdc3-7998-4f78-9c4f-392acf08299d,2023-04-14 13:18:20,SaaS License (Yearly),Accessory,LATAM,950.29
+49931ae4-dcf0-4ac5-8db1-e480a315890d,2025-09-03 05:01:10,HD Monitor,Accessory,EU,307.56
+fa35d479-c022-46d5-a9d7-922921a3166c,2023-12-04 02:14:16,HD Monitor,Accessory,EU,320.6
+58910d49-98b4-4a46-9b1a-453afe859c61,2025-01-04 08:53:20,Mechanical Keyboard,Accessory,EU,164.03
+dabdcda2-201c-4e91-8cba-061c2868fabd,2023-01-02 05:34:09,HD Monitor,Accessory,LATAM,292.77
+2a287710-ba0d-4b08-aef5-826ea25b405a,2024-01-19 17:41:56,Ergo Chair,Accessory,APAC,426.87
+98c3f7c1-e707-41e1-8388-91c2f8b6fcdb,2025-07-09 09:08:15,Laptop Pro,Hardware,EU,1287.16
+2380c934-33f1-43be-aa86-b331579bca93,2024-07-04 00:37:22,HD Monitor,Accessory,NA,284.21
+ecac2c48-1bbc-4b21-9a80-dbb28c986286,2023-08-28 04:08:34,Wireless Mouse,Accessory,APAC,25.37
+ee4d72aa-3b7e-4eb0-b7b7-b1a17f09109c,2024-02-27 17:22:00,Laptop Pro,Hardware,NA,1271.33
+5ef18b13-f57b-46f8-a1df-028a48cc0b51,2023-06-10 17:33:02,Ergo Chair,Accessory,EU,486.86
+7e324619-6e6e-48fc-938e-7d48ca4ec1be,2024-04-20 22:34:28,Mechanical Keyboard,Accessory,APAC,147.14
+3f09414d-1b24-4f84-8571-ea2cdf3350d7,2023-08-18 13:12:44,Mechanical Keyboard,Accessory,LATAM,163.04
+cad58b65-b7e1-41f3-b033-4a93d48dd130,2026-02-01 10:03:38,SaaS License (Yearly),Accessory,LATAM,1071.39
+34ac3b5c-6c60-47aa-bd95-49cd646fbe75,2023-01-19 03:59:49,HD Monitor,Accessory,NA,323.73
+717b4e70-35fb-4b5e-be2b-2290afd9dfee,2025-01-28 11:07:27,Enterprise Server,Hardware,EU,14759.42
+4b7aa778-7407-463e-bcef-460f142a9ff3,2024-12-24 17:03:45,Laptop Pro,Hardware,EU,1088.95
+33adabef-45cd-4139-bd00-464f49276434,2023-11-05 11:09:27,Ergo Chair,Accessory,EU,433.7
+34732a0f-26c2-4a45-85a8-f1ae19c59105,2025-03-17 04:48:41,Mechanical Keyboard,Accessory,LATAM,153.13
+20d1da40-09b1-45b6-ae5f-8f071a0056cd,2025-11-14 11:23:35,SaaS License (Yearly),Accessory,NA,1072.76
+5a17d987-d39d-4562-9827-d47b90ddf122,2024-02-12 06:39:09,Laptop Pro,Hardware,APAC,1201.43
+68baa254-3bae-4dde-96e4-a477039119f2,2025-10-12 04:24:52,Ergo Chair,Accessory,LATAM,460.5
+1358b4f1-d798-4b98-8a2d-636843dd8409,2023-11-05 05:15:30,SaaS License (Yearly),Accessory,EU,979.14
+6f008e3b-4100-42dc-8d1b-81ae53dd2882,2025-02-12 16:05:14,Mechanical Keyboard,Accessory,NA,154.02
+46ba7ad8-0984-4fa4-ba16-46be91fe80ee,2023-07-11 12:57:06,Enterprise Server,Hardware,APAC,16185.12
+c6cfde17-f9fd-4505-b72b-d6f933f3e95c,2024-05-23 12:43:45,SaaS License (Yearly),Accessory,LATAM,1060.24
+3f50ac72-f5e4-48ee-8d17-eb87567009b1,2025-01-15 09:01:56,HD Monitor,Accessory,LATAM,284.17
+33047563-de73-497c-82f0-19fd1e8e0b3c,2024-09-03 01:40:11,USB-C Hub,Accessory,NA,47.98
+d4d9dc2f-4628-4c22-b2ab-3963401e0529,2024-07-13 16:46:58,Enterprise Server,Hardware,NA,14923.95
+a062e3eb-c6fd-4cd4-a7c6-c314fd0a3297,2025-09-08 13:23:29,USB-C Hub,Accessory,LATAM,44.9
+7102f93f-107d-4160-a746-864914615c60,2024-02-10 16:37:48,Wireless Mouse,Accessory,NA,23.52
+b2faf5c1-0a73-4c10-a4f8-3893c8c4a0e9,2023-08-21 22:34:49,SaaS License (Yearly),Accessory,EU,960.05
+5e237a38-41b3-4e31-be45-513eae7c2185,2025-07-14 10:51:43,Mechanical Keyboard,Accessory,EU,147.62
+6ef1169e-fc19-47cf-8d33-010dbfe05bbd,2024-04-30 23:48:09,Enterprise Server,Hardware,NA,14349.87
+dd45b559-73c9-4fc5-89dc-1a69b33fab98,2023-01-12 13:03:07,Enterprise Server,Hardware,LATAM,14922.2
+a6cb3dd5-fd5b-4952-9c4a-27008335774d,2025-10-12 13:34:43,SaaS License (Yearly),Accessory,NA,990.72
+efa26311-11d9-41af-af3d-5c5d397c3df5,2025-05-07 17:04:51,Enterprise Server,Hardware,NA,15701.59
+2380ab7f-fd60-4c52-9bb5-4d23e917891b,2025-04-28 07:51:54,Mechanical Keyboard,Accessory,EU,157.47
+debb4833-f84c-4326-b1a9-bd37686eb880,2023-05-21 18:43:42,Mechanical Keyboard,Accessory,NA,153.98
+e59e7d7f-46aa-4f56-8c06-e24cf6ee6bbd,2024-08-23 03:35:59,SaaS License (Yearly),Accessory,EU,1017.07
+e37ffae0-a5fc-444a-8dfa-a9c4d4eb099f,2023-10-02 05:32:28,USB-C Hub,Accessory,EU,40.67
+ffd1095f-8a79-4e50-85f4-bc7ea68382a9,2025-03-24 05:21:01,Ergo Chair,Accessory,NA,417.28
+ad19edf4-afbf-4914-96c2-74f3539642d9,2025-11-01 07:37:16,Wireless Mouse,Accessory,LATAM,22.58
+0384344b-b69e-4969-8e42-1be2a52d6aee,2023-09-18 08:37:03,SaaS License (Yearly),Accessory,LATAM,924.65
+f0cab622-b2a2-4af3-964c-a110ffd22d6f,2025-08-25 03:16:33,Ergo Chair,Accessory,NA,418.05
+2b940a88-9b99-4f6a-b3fb-a854c28db566,2024-07-18 19:11:13,Laptop Pro,Hardware,LATAM,1306.18
+67a25dec-a83b-4656-ace7-8ee65ba08a4f,2025-12-09 22:57:19,Mechanical Keyboard,Accessory,APAC,156.27
+2cee62d7-69ca-42f3-9f51-c2e427ba2bf7,2026-01-11 22:50:42,Laptop Pro,Hardware,NA,1107.68
+bf3c2aca-4113-4b41-aa0b-04e29b9c0cca,2025-01-12 14:13:41,Wireless Mouse,Accessory,LATAM,24.9
+efc2b1cb-44d4-405f-bfb5-d61f099c4f2b,2024-08-27 02:59:01,HD Monitor,Accessory,EU,299.46
+34ca5e00-468b-46c6-9f91-d175b983f9b3,2023-07-11 00:39:57,Wireless Mouse,Accessory,APAC,22.63
+583edf60-cf22-4c02-8e8d-29639aca7f59,2025-12-16 23:22:05,SaaS License (Yearly),Accessory,LATAM,942.89
+b0646967-732f-4984-b178-7509bdae60f2,2023-09-04 18:51:33,Mechanical Keyboard,Accessory,APAC,141.94
+dc9fd05e-77fd-4900-bbdd-89b1c92f0307,2023-02-20 16:28:52,Laptop Pro,Hardware,APAC,1293.41
+ad676ff1-dd12-4cf3-abc5-7bda941bcf8c,2023-04-18 10:58:19,Ergo Chair,Accessory,NA,454.0
+6901d40d-6873-4467-8a38-25d9c9b34fee,2025-07-10 06:17:26,SaaS License (Yearly),Accessory,NA,1062.68
+501c49d0-0599-4f0d-b7c5-38bfdf652cfa,2025-08-07 05:20:17,Enterprise Server,Hardware,EU,16097.68
+cfe3848c-de89-4bf6-b2a1-aad3b48cdbd2,2025-08-02 08:20:24,SaaS License (Yearly),Accessory,NA,1092.93
+4098f441-6570-4e3f-a847-f99a5099e518,2025-06-25 16:54:02,Mechanical Keyboard,Accessory,APAC,150.61
+44272f28-b20b-42cc-add5-daf648a56691,2024-03-06 07:31:46,USB-C Hub,Accessory,LATAM,45.46
+cdca57a4-6ddc-4ee5-a639-fbbac87fdfac,2025-10-01 23:13:44,Wireless Mouse,Accessory,APAC,23.36
+dd8044dc-8a7f-4da3-b54a-4bf7b288ed7a,2024-05-08 06:33:01,Ergo Chair,Accessory,EU,419.81
+f5c8cd35-6c8d-4abc-a853-33369b4325af,2025-10-23 22:47:43,USB-C Hub,Accessory,LATAM,46.91
+e322397b-d9a2-4b3c-a85d-f6f6e8819d9f,2023-02-07 01:40:22,Wireless Mouse,Accessory,NA,24.62
+e4bbc386-ed2e-4d5b-a062-0ad6a978ebf4,2023-01-02 23:12:55,Mechanical Keyboard,Accessory,APAC,151.66
+300504da-804c-4f82-b465-92b580e320b1,2023-03-05 22:09:55,SaaS License (Yearly),Accessory,EU,1017.53
+11f472f8-d951-48ea-bfc6-28a418ba712b,2025-12-21 23:29:33,Mechanical Keyboard,Accessory,APAC,135.69
+8c66ffc0-d139-4d6b-b4fa-d6f3cf883206,2023-03-18 12:20:30,HD Monitor,Accessory,APAC,284.07
+efbff929-140e-4248-b1e6-5a453a5d435d,2024-06-23 17:01:54,SaaS License (Yearly),Accessory,APAC,1037.21
+53fea812-6292-46f9-80ec-81c883aa43d4,2026-02-06 21:01:00,SaaS License (Yearly),Accessory,NA,1002.49
+39035170-c031-40e4-a14d-ecc60b21ded8,2024-11-14 06:30:53,Mechanical Keyboard,Accessory,EU,145.92
+ecdabf24-0089-43fb-9507-604729133bd3,2025-08-24 09:37:33,Enterprise Server,Hardware,LATAM,13713.2
+533c2059-9e32-46c2-96c5-57e30637087e,2025-08-03 13:04:41,Laptop Pro,Hardware,NA,1136.17
+ceedff8f-6469-4a13-93ae-5160286c8cc9,2025-12-10 09:15:16,USB-C Hub,Accessory,NA,40.86
+8e857b4e-d963-4ea3-b4a2-bc8aabe9698f,2023-03-19 22:27:00,Ergo Chair,Accessory,EU,485.3
+7613a8ea-dd36-4e9b-83e0-67e75eddd70b,2024-03-18 15:42:29,Ergo Chair,Accessory,LATAM,417.46
+ffa4ac04-b03d-4359-aae4-baefc5db16e1,2024-03-16 00:00:53,Wireless Mouse,Accessory,APAC,26.19
+90742fef-7950-4ab1-a75a-4d87850b371a,2024-05-30 01:47:02,Ergo Chair,Accessory,EU,417.48
+cc16521b-cf28-4d21-87dc-4a11e176c67c,2024-09-19 05:13:34,Mechanical Keyboard,Accessory,NA,158.53
+748b5a37-90f2-46c0-88b7-6193e3d45b51,2024-11-15 10:35:22,Laptop Pro,Hardware,NA,1211.66
+ac641e7c-04fb-447b-afb8-f4b7a1fe6eeb,2023-02-09 14:59:00,Mechanical Keyboard,Accessory,APAC,157.3
+0cb2e1b3-e5e8-4b32-b7cb-4c4bedf867ea,2025-02-11 14:12:49,Ergo Chair,Accessory,APAC,424.2
+ecd93bff-095c-43a0-8427-a8ced3b5a422,2025-06-12 12:23:08,SaaS License (Yearly),Accessory,EU,1084.14
+ded2e709-0b5a-4f90-b135-0e90b2e77444,2023-07-25 21:08:33,SaaS License (Yearly),Accessory,NA,1033.07
+a3ffcb47-58d4-45ae-8cd6-49242276644b,2025-10-15 06:34:28,Mechanical Keyboard,Accessory,APAC,138.18
+83f80572-2d8a-4dd6-9e3d-930ca0ee0ce8,2023-03-11 10:01:29,USB-C Hub,Accessory,EU,48.94
+d3d64a7c-d6fb-4acf-a5fd-c35edb99dc64,2023-06-03 07:59:25,HD Monitor,Accessory,APAC,278.99
+4f4468db-fe26-4429-887d-631fcd820a13,2023-09-10 05:21:04,HD Monitor,Accessory,APAC,279.32
+91a3be44-97f6-488f-b67d-65636b93057a,2024-05-29 17:22:46,SaaS License (Yearly),Accessory,NA,998.94
+950fbdc3-7354-43ac-a5af-cd734886b6b4,2026-02-05 10:19:00,Ergo Chair,Accessory,EU,447.46
+29baaf51-bbe5-400b-82c1-05b614f354f1,2025-10-15 07:45:58,HD Monitor,Accessory,APAC,326.77
+ebc205d3-9d27-46a2-92d7-4b6f503925c4,2024-11-04 14:54:31,Wireless Mouse,Accessory,NA,23.75
+773d7ab7-b989-4789-9c4a-23f497eef6f0,2023-10-05 12:02:24,Enterprise Server,Hardware,LATAM,13569.19
+c2aeb577-6502-4539-8682-6e942b82281c,2025-03-27 05:04:54,Enterprise Server,Hardware,APAC,16488.93
+a75c0e52-8080-4724-9d3f-ff37fda82b63,2023-07-18 20:45:58,Enterprise Server,Hardware,LATAM,14989.96
+47a59df4-7425-4b38-9e32-1da6e9e8a24f,2023-01-19 12:56:58,Laptop Pro,Hardware,LATAM,1304.0
+d5291a39-9676-40a1-b29d-4dcf79edc124,2023-02-28 18:56:23,Ergo Chair,Accessory,APAC,422.06
+a57257ed-831c-4236-8ddc-9e1f0c0f8949,2024-12-05 18:40:59,Wireless Mouse,Accessory,EU,25.13
+a755562b-efa5-4cf7-9713-3a0f6d729615,2023-09-30 00:54:59,Wireless Mouse,Accessory,EU,26.61
+169ee3ea-c2bd-43ce-b64a-cb18dc8992a8,2024-09-26 10:55:22,HD Monitor,Accessory,APAC,284.51
+c28f6609-ca00-4f7f-8241-bff85d5372ba,2024-05-16 14:43:25,SaaS License (Yearly),Accessory,EU,1078.98
+0273d553-e1d4-4349-8f62-d72c1326a7ea,2024-12-15 10:36:10,SaaS License (Yearly),Accessory,EU,952.74
+218518f5-b867-4a88-bcb2-120bc91e3407,2024-02-06 01:26:29,Mechanical Keyboard,Accessory,APAC,152.27
+95696d95-c497-4c00-8e2a-6e87f0aa7b40,2024-05-03 07:59:46,Wireless Mouse,Accessory,NA,23.95
+771c22af-6052-4885-a5b8-e30efdb8658a,2024-02-27 09:41:32,Mechanical Keyboard,Accessory,LATAM,147.43
+f3ec4e29-01fb-410a-a52c-efd69b7ec766,2026-02-01 03:33:11,Enterprise Server,Hardware,APAC,15189.12
+879bc6ed-f3fc-47b8-9370-5e8089feae15,2025-03-12 07:18:04,Enterprise Server,Hardware,APAC,14211.56
+5f2b9e5b-3f71-4552-bb49-00a3b9812fdf,2023-03-02 16:36:52,Mechanical Keyboard,Accessory,APAC,143.84
+f0b83072-21bd-4b90-9ef8-b3026b6a9d48,2025-01-01 06:33:24,Ergo Chair,Accessory,EU,478.42
+208a7d62-ee58-46e0-991f-25b3a33c27e1,2025-01-06 21:22:24,SaaS License (Yearly),Accessory,NA,1047.93
+99544736-4208-4f7a-b75b-697c81ae8658,2023-02-28 09:28:43,USB-C Hub,Accessory,EU,41.34
+c3aede96-023c-46d8-8618-4d46360c6b6b,2025-04-10 17:17:22,Ergo Chair,Accessory,APAC,470.33
+4e956db8-d9d6-4e2a-9db3-145dd8c72d46,2025-05-18 00:00:32,Laptop Pro,Hardware,NA,1242.85
+a81c019b-ee5c-47e7-acda-8c8f47f3b671,2024-01-15 23:52:15,Enterprise Server,Hardware,APAC,13589.43
+b45c028a-5b09-4776-8f3a-8b468dec1848,2024-01-24 02:23:55,HD Monitor,Accessory,APAC,297.95
+71effb21-4f46-404d-929f-b034ab64d920,2023-05-31 06:14:04,Laptop Pro,Hardware,EU,1281.19
+55478a61-d96b-4c47-b15f-6e50c50fa687,2024-06-18 07:37:47,SaaS License (Yearly),Accessory,APAC,909.84
+9fdcdadc-a89c-45f3-9f77-6540246c10a9,2024-10-24 05:54:45,Enterprise Server,Hardware,APAC,15127.71
+ed821a64-9e72-4564-9560-87b969b722f3,2024-07-21 17:58:51,Wireless Mouse,Accessory,NA,23.37
+54cc3a23-8270-4b96-84a8-986f0e5130ee,2023-05-30 06:49:08,Enterprise Server,Hardware,APAC,15685.8
+0978fb79-0e71-4445-a38b-b7b91ee8f205,2025-05-27 18:21:12,Ergo Chair,Accessory,LATAM,492.91
+86d4de05-1f3e-43fe-9683-2db6ef8783c6,2026-01-21 17:05:22,SaaS License (Yearly),Accessory,APAC,969.68
+4b586a28-f480-4134-b1ea-a16593b3c632,2025-06-23 05:10:08,Mechanical Keyboard,Accessory,EU,141.64
+bc2a5d07-a946-4d27-b495-dd5df67ca07e,2024-04-15 16:07:40,Laptop Pro,Hardware,NA,1110.37
+2fdb7a86-d535-4926-8c5b-cec41cc477e2,2023-10-29 22:58:21,Mechanical Keyboard,Accessory,APAC,159.65
+996166e8-ac80-4faa-95b2-29c43e4aeeb6,2024-02-07 04:50:38,Ergo Chair,Accessory,EU,453.13
+cc9f9774-2bc8-479b-a881-132b741cab18,2024-07-08 19:14:09,Ergo Chair,Accessory,EU,479.11
+557b1265-e4d7-4265-918d-e0d09246d0c8,2024-03-29 12:51:53,Laptop Pro,Hardware,APAC,1226.73
+124c4730-5ebd-45f5-b614-f69de0a2a1fc,2025-01-07 06:42:48,HD Monitor,Accessory,APAC,309.96
+b99ab0ef-3697-4670-8ace-5332da4205e4,2024-10-22 07:18:45,Ergo Chair,Accessory,EU,415.5
+39cde8bb-fd03-4b0d-8685-9f0768cbffa7,2023-04-16 17:53:23,SaaS License (Yearly),Accessory,NA,911.33
+e3bcfe86-a3cb-4ea2-b95f-8783598fe36f,2023-06-15 14:13:52,SaaS License (Yearly),Accessory,LATAM,920.87
+2167655e-a663-4486-8ff0-ddd231ee890b,2025-09-19 00:19:43,Wireless Mouse,Accessory,APAC,27.16
+ca45fcce-3f69-44fb-8958-6eeed9ce5a37,2023-02-09 02:56:03,Ergo Chair,Accessory,NA,440.89
+0ed6ff59-8bbe-4e2a-b40e-f78297c145d8,2024-08-03 21:22:29,Ergo Chair,Accessory,LATAM,486.1
+46e5ccb2-d4b2-408c-b8c0-9fafb1f1240a,2026-02-03 03:34:47,Mechanical Keyboard,Accessory,LATAM,142.73
+1543fe4f-eff2-42fd-baa5-b820d82fc3dd,2024-12-08 04:41:12,Wireless Mouse,Accessory,EU,27.25
+bab09357-a700-4133-86b9-d4adb34df5e2,2023-09-02 10:54:18,Mechanical Keyboard,Accessory,LATAM,152.38
+f92263e4-0822-4ed4-a49b-336ef4c9f4e5,2025-01-29 00:40:00,Wireless Mouse,Accessory,APAC,24.31
+53f5d08c-d021-4bc4-b1c4-542781007089,2024-07-07 16:06:46,Laptop Pro,Hardware,NA,1280.57
+7f9f789c-1521-425d-9395-080ef7cbbab7,2026-02-12 04:15:07,Enterprise Server,Hardware,NA,13824.11
+6248377b-fa7c-4af7-81b4-f0bcaeed8dce,2024-12-16 11:39:27,USB-C Hub,Accessory,APAC,42.4
+93d903ec-0ea6-435f-b5c7-fab69e1fe76a,2025-07-12 12:17:08,SaaS License (Yearly),Accessory,APAC,902.52
+0d7036eb-688f-42bb-aae5-8c9b1afa15c5,2024-08-14 06:12:35,HD Monitor,Accessory,NA,289.42
+da3d7c29-13e4-4ea9-b94e-0022c36ccaba,2025-04-04 01:36:00,Laptop Pro,Hardware,NA,1155.1
+275d7dd2-62b7-468d-81ba-d52434d87eb7,2024-02-01 00:46:11,USB-C Hub,Accessory,APAC,42.44
+7f8dc6c8-35d2-4ada-a8ef-001fef56a08a,2023-02-13 04:04:53,Ergo Chair,Accessory,EU,461.22
+ec912bb5-f24e-4d51-b5c3-e7d9ea81673e,2025-11-23 17:33:41,Laptop Pro,Hardware,NA,1161.01
+ed4d4ce5-b9ae-441f-abec-bb413b966b1c,2023-09-05 05:12:40,SaaS License (Yearly),Accessory,EU,907.96
+85689651-43bd-42a8-b247-c075035ff953,2025-05-19 17:43:51,Laptop Pro,Hardware,LATAM,1257.23
+5f3a3f54-886a-4d18-98b0-e400754bc2d3,2026-01-22 10:35:06,USB-C Hub,Accessory,APAC,45.99
+65cf697e-1dcd-4210-be44-02115109d400,2025-04-23 00:06:28,USB-C Hub,Accessory,LATAM,48.05
+8545d205-b164-4e5f-982c-ec3dd61c3260,2025-12-27 10:22:51,Ergo Chair,Accessory,APAC,450.32
+0584b581-0f1f-48c9-97df-de4b9c852af5,2025-07-13 12:56:42,Mechanical Keyboard,Accessory,LATAM,154.95
+007d0de7-f72a-4dc9-a60b-604ba01c1235,2023-01-03 21:04:48,Laptop Pro,Hardware,LATAM,1242.22
+501d88bb-cccd-4be1-833d-638954851cfc,2023-07-11 19:58:30,HD Monitor,Accessory,EU,282.91
+a4555c0e-0021-4840-b4f7-4e54f2afd7e5,2023-04-24 17:07:59,HD Monitor,Accessory,EU,32031.0
+44e9fb13-ffe7-44ea-bb64-4e7438fdb712,2024-11-21 08:33:45,Laptop Pro,Hardware,NA,1265.57
+8a1697d0-0574-4b8f-a4a2-f02c28bafb02,2024-09-04 00:02:36,Mechanical Keyboard,Accessory,LATAM,139.62
+d8681236-71b4-47a2-a440-a55ca9981999,2024-11-27 17:16:07,SaaS License (Yearly),Accessory,EU,935.06
+a428ca10-2a4f-4e85-9c49-9b75495db35c,2025-10-22 18:30:23,Wireless Mouse,Accessory,EU,24.01
+5062ed5e-62c2-4ffa-8e30-128b6a02a30a,2024-09-15 09:08:34,Wireless Mouse,Accessory,NA,27.35
+74d39e41-3070-45d6-9933-bcb0a8350b9d,2023-10-12 09:10:02,SaaS License (Yearly),Accessory,EU,1002.78
+b7b9ad18-da34-41b3-ba78-7bbfc6f62f5a,2024-04-04 23:51:10,Ergo Chair,Accessory,LATAM,432.54
+e49b9ec5-9188-4ffa-8c4b-0fafb1036155,2025-02-24 13:56:45,Enterprise Server,Hardware,EU,15951.74
+45f58d9c-d1ed-43af-a191-6d3fc4127295,2025-08-16 11:23:09,HD Monitor,Accessory,EU,280.12
+7e600528-1fdc-4bdf-8e85-b60c4fca3bf4,2025-11-25 03:28:22,Mechanical Keyboard,Accessory,NA,142.65
+8d33a052-73ff-483a-8ebd-6677ca1d68a3,2025-10-11 05:24:21,Wireless Mouse,Accessory,LATAM,26.35
+5bfa06ee-6958-4202-adb5-8bb20f469942,2023-01-05 04:10:34,HD Monitor,Accessory,APAC,314.98
+3c821708-7309-4307-832f-cb8d156d2c1d,2023-03-09 11:35:44,Laptop Pro,Hardware,NA,1318.55
+cb2071a2-eef2-4ef1-a11b-519463f27263,2023-06-25 20:28:24,Mechanical Keyboard,Accessory,LATAM,151.99
+452c1aeb-a1cb-45e1-8fde-bdf5eca66f30,2023-09-17 11:52:34,Wireless Mouse,Accessory,EU,26.27
+1d0ba2e8-2638-4c5f-9967-520955154df2,2023-10-13 21:18:33,Enterprise Server,Hardware,NA,16496.72
+292164b1-7216-4696-b5d4-24c8bc080dcf,2023-06-22 19:20:49,Wireless Mouse,Accessory,NA,24.23
+42728d85-a378-4643-ac08-cfa8f38a5e01,2024-02-06 11:14:01,Enterprise Server,Hardware,NA,15334.16
+4aac4280-4d88-47ed-b877-1e48f7fec49d,2023-06-08 00:24:30,Ergo Chair,Accessory,LATAM,421.72
+653164db-a4ce-4c55-b024-b8e2a229965d,2025-06-25 07:04:03,Wireless Mouse,Accessory,NA,24.78
+5558acb6-7cba-4eff-a1f3-be4684a5aba1,2025-10-06 19:46:10,Mechanical Keyboard,Accessory,EU,141.32
+ad64d9c7-fe38-4a1b-95d8-eb94a96155d3,2025-05-23 14:53:57,Mechanical Keyboard,Accessory,APAC,159.75
+70599500-7b0c-4e2a-8e02-3b2054e57ba2,2024-10-02 15:19:37,Enterprise Server,Hardware,NA,14332.89
+fe91e879-900b-465d-9a99-e5cc4a74e5b3,2023-04-13 04:38:57,HD Monitor,Accessory,APAC,315.76
+c7fcad14-d9c9-4976-9c92-eddfb7d18501,2023-07-18 17:52:42,USB-C Hub,Accessory,LATAM,48.07
+07a176ec-2b15-4604-85ce-1b2975849948,2025-05-03 13:46:29,Ergo Chair,Accessory,EU,455.52
+883b9644-1ffa-40ef-9b07-069b774c3a5b,2024-07-01 03:13:14,Enterprise Server,Hardware,NA,15115.32
+9232f0a1-3cc2-456d-bb0c-943afd7441c4,2024-02-09 05:12:11,Wireless Mouse,Accessory,NA,22.66
+ec3e4eea-6dc8-4392-b475-7e5642fc96c8,2023-10-20 09:13:06,HD Monitor,Accessory,NA,309.31
+321aac9a-8603-4fbe-9fed-600a41d5335e,2026-01-18 08:10:52,Wireless Mouse,Accessory,EU,24.11
+219ebd46-4815-46d1-87ef-efa622f6b69c,2024-04-23 10:33:42,Ergo Chair,Accessory,APAC,412.53
+eab03a1c-b7aa-4788-a2f5-11520703b382,2023-12-23 12:13:35,HD Monitor,Accessory,EU,324.7
+6a9df2f8-18cb-4b5c-bdf3-befa1e932b49,2024-08-09 21:58:30,Enterprise Server,Hardware,NA,14530.19
+2ca0bb63-b2d7-40f1-be46-077e59614455,2024-03-13 12:01:36,Mechanical Keyboard,Accessory,APAC,138.9
+378958a3-2207-4a53-a3f0-ca9668de0dc8,2024-09-11 22:21:58,Laptop Pro,Hardware,NA,1233.42
+e58a08f3-a94b-449e-93b3-6f0141a2f6ef,2023-05-24 17:37:30,USB-C Hub,Accessory,NA,45.28
+8364f789-6aa0-48c1-ba3b-97eaa7d24f91,2023-01-27 20:30:09,SaaS License (Yearly),Accessory,LATAM,1059.85
+e87fc808-701c-4fa4-96a5-d48688184d65,2025-07-29 06:48:33,Laptop Pro,Hardware,EU,1139.05
+21496a13-01aa-400d-ab02-e277c9367f7b,2025-10-28 23:46:42,USB-C Hub,Accessory,EU,43.45
+ceb22505-2635-4c1a-ab9d-2f464100076f,2024-04-09 16:52:35,Enterprise Server,Hardware,APAC,15418.81
+60f2b132-9ce1-457d-b1fe-78338ff46e59,2024-08-27 19:14:30,SaaS License (Yearly),Accessory,NA,953.17
+04bb8ae5-d49f-41d6-89c6-e351e4d76d7e,2025-09-14 05:18:27,Laptop Pro,Hardware,NA,1293.28
+c73e98c8-6475-43d1-a1d0-e1f1a71b648d,2024-11-07 10:59:36,Wireless Mouse,Accessory,APAC,25.77
+6334bc16-f24e-4ac5-b9df-7827d03ab521,2024-09-24 00:04:26,Enterprise Server,Hardware,APAC,1509287.0
+b7ee9fe9-2895-4795-aec4-f9d06c4feec5,2025-10-27 16:32:27,Ergo Chair,Accessory,EU,485.8
+88ad2933-0b81-432f-930f-43f14b3dde81,2023-10-11 02:27:12,Wireless Mouse,Accessory,LATAM,24.52
+11ed70fb-78ce-49d0-9483-13a5f5d2fcc0,2025-09-17 23:53:29,Laptop Pro,Hardware,EU,1303.88
+8e0a8745-d4f1-411f-ae0f-c4a1e1cfad63,2023-10-21 11:01:48,Wireless Mouse,Accessory,NA,25.56
+c18448d3-05b8-4d2f-b63f-7b9c7593361e,2023-10-31 13:00:00,SaaS License (Yearly),Accessory,EU,1025.14
+d6cfc809-986c-4145-b6d1-2ed0a36ca0a5,2025-10-08 23:39:27,Enterprise Server,Hardware,NA,15565.93
+ec68d7ca-355c-477e-8647-04b5f7b99830,2024-09-01 15:40:50,Ergo Chair,Accessory,LATAM,419.25
+b0e4fd6f-d906-451c-bb43-3d048973a495,2025-07-29 00:25:09,SaaS License (Yearly),Accessory,NA,940.96
+ba853da0-5b1e-429e-855b-93d19fbabf5c,2025-05-19 15:31:06,Wireless Mouse,Accessory,NA,23.37
+83033277-dfe4-4157-8fd5-6e7fb702774a,2023-10-05 07:29:24,Ergo Chair,Accessory,EU,432.62
+14163d77-d8ee-4875-9435-1399a22b889b,2024-08-26 18:01:08,Mechanical Keyboard,Accessory,EU,158.93
+f1d9e4b2-91fe-413b-a4c1-264b875687b4,2025-02-22 15:05:30,USB-C Hub,Accessory,EU,44.28
+37f24042-d324-454f-9952-d855273ac744,2023-07-30 14:58:17,USB-C Hub,Accessory,NA,43.51
+f48ed212-15bc-439f-86b8-eb12f78a3fbf,2023-05-09 19:55:06,Laptop Pro,Hardware,NA,1260.35
+b0ea50c8-4b68-4c80-843d-5b7715bfa58b,2025-05-08 03:19:27,Wireless Mouse,Accessory,NA,22.91
+9e5292c6-e5f6-4b9c-958c-be87e04a6592,2024-05-03 12:53:08,Ergo Chair,Accessory,NA,446.49
+5aad090f-5afd-4ea6-a342-1afcec7c3496,2024-07-10 16:32:49,Enterprise Server,Hardware,NA,14154.16
+a5658df2-3be5-49fa-84d3-9d3ccb9ef15e,2025-07-16 21:46:24,Wireless Mouse,Accessory,LATAM,22.81
+7918964a-8bb3-4f93-b270-58090499e38b,2025-09-17 04:25:17,Ergo Chair,Accessory,NA,417.97
+80809579-f6b5-4fb0-8961-90c47638f7ac,2023-04-09 01:40:48,Wireless Mouse,Accessory,NA,27.23
+e79df11b-526a-4803-ac87-efffbcf0247c,2024-07-27 23:28:35,Enterprise Server,Hardware,EU,14473.34
+1b46f47c-9b7b-458c-a047-7bd49e4c1092,2023-08-27 15:29:26,USB-C Hub,Accessory,EU,43.91
+d0bb6ad8-3cfb-4496-84b2-e76388db5c81,2023-10-08 21:58:15,Enterprise Server,Hardware,NA,15252.69
+2997d06e-96fa-47a8-9c2a-4e8276f00fe7,2023-06-02 11:58:07,Mechanical Keyboard,Accessory,LATAM,157.25
+5a7b74b0-4548-4d6a-9542-03fc29c8c3ed,2023-01-29 05:03:22,SaaS License (Yearly),Accessory,NA,956.24
+e706cde8-3d70-4a7f-8380-05febeb20654,2026-01-05 15:07:35,USB-C Hub,Accessory,LATAM,49.44
+bbaefc37-062b-455b-960b-aca58c5ed347,2025-07-16 13:00:07,Mechanical Keyboard,Accessory,APAC,149.04
+59027375-0298-4159-86cb-bb452439fb1e,2025-12-13 03:59:51,Laptop Pro,Hardware,NA,1250.14
+d5d460c6-270c-420d-94f3-44c3bd5ab4a5,2023-03-14 20:43:11,HD Monitor,Accessory,LATAM,303.52
+ad58f400-7028-4ecf-b38d-e687851841c3,2024-03-02 19:06:33,Enterprise Server,Hardware,APAC,16165.58
+08e56249-25ac-4bca-80dc-ca6b591ae024,2023-03-22 02:53:02,Ergo Chair,Accessory,LATAM,420.31
+6b331a48-d432-4240-964d-678ae08b49b4,2024-03-18 08:23:55,Laptop Pro,Hardware,LATAM,1197.04
+cef7fab6-dc7b-4b76-b755-9150e7f95d0c,2024-04-23 08:52:59,Enterprise Server,Hardware,NA,14617.6
+ec7072ba-7a46-45b7-8c1a-7d017c220270,2025-06-01 05:31:02,SaaS License (Yearly),Accessory,NA,945.63
+d34d03ca-5955-460f-a870-c30309ca1841,2023-07-01 17:23:22,HD Monitor,Accessory,APAC,270.72
+b81045e3-59ef-4364-b35d-1773a11e7abd,2025-11-09 05:32:09,SaaS License (Yearly),Accessory,APAC,985.9
+e9f93bcd-d7f8-435b-bb91-5b472fc3e578,2023-12-07 08:45:43,SaaS License (Yearly),Accessory,EU,930.27
+0907643f-42f9-4922-a919-89b33d1d9a8e,2025-05-02 20:14:44,Ergo Chair,Accessory,APAC,494.07
+de08d2a6-b51f-4bed-86bd-e115cdd96f4d,2025-12-21 09:28:11,SaaS License (Yearly),Accessory,NA,1006.16
+72cc02d1-60dd-4e46-b4e8-03afdfda3722,2024-12-08 23:10:08,SaaS License (Yearly),Accessory,LATAM,1014.51
+11c994a5-77d0-4431-b9af-ce27ca66e74c,2025-04-14 10:41:54,Wireless Mouse,Accessory,APAC,22.84
+82fb7e99-ea17-42ab-871a-36084f7e55a3,2023-10-12 20:47:44,Enterprise Server,Hardware,LATAM,14538.12
+62604f0e-efb2-4eda-a917-b22d07e42958,2025-01-12 02:36:43,Ergo Chair,Accessory,APAC,457.1
+f7f8aa00-6ea0-4209-9ce0-2ac0d2d13684,2025-03-30 05:40:06,SaaS License (Yearly),Accessory,APAC,1084.16
+26ad7d57-9e5c-423b-96d1-5a3309cee4f2,2024-04-01 13:59:02,Ergo Chair,Accessory,APAC,424.71
+7bf8bde7-f255-4cb9-be4e-156ec1bc0151,2023-07-29 09:55:57,Wireless Mouse,Accessory,APAC,26.78
+0d9cec57-827c-4603-9c1c-725399bff900,2024-10-17 03:05:44,SaaS License (Yearly),Accessory,APAC,932.44
+8b1dc04d-888c-41f5-bbd7-d36b93dc4504,2025-03-22 17:51:39,SaaS License (Yearly),Accessory,APAC,920.06
+b419b749-0457-4075-aa36-5cb99f42ca14,2025-06-25 04:27:40,SaaS License (Yearly),Accessory,EU,941.46
+bac3dbe5-dff7-4c52-9235-7bbc6f268129,2023-03-18 10:02:09,USB-C Hub,Accessory,NA,42.31
+cf5f5d40-8fbd-4ae6-a607-f8cd9c2021f5,2023-10-17 12:52:01,SaaS License (Yearly),Accessory,APAC,1001.4
+fc39f895-9660-4c09-8e44-393d673f751f,2025-06-04 01:33:53,Mechanical Keyboard,Accessory,APAC,153.37
+49a57c0f-45e2-4487-a653-af58d31e9414,2025-10-16 21:53:21,SaaS License (Yearly),Accessory,APAC,1086.46
+451c1faa-3c5a-4f81-96d7-155ceec9403b,2025-05-06 19:15:56,USB-C Hub,Accessory,EU,41.96
+aa891fe7-fda3-4780-afe7-294b129403cc,2026-01-17 23:51:47,Wireless Mouse,Accessory,NA,24.29
+37996aea-376a-4f0b-a1d2-d5730e73dd25,2023-12-22 06:15:51,HD Monitor,Accessory,APAC,320.67
+20dd0fbd-be85-4763-8502-cadd6a00483c,2023-07-25 19:26:14,USB-C Hub,Accessory,NA,46.48
+afca9115-aa38-46f2-8457-761262c3ad64,2025-07-20 08:54:27,Laptop Pro,Hardware,NA,1216.18
+bf2cbc10-f81d-4473-92be-3a3cba6bbc1a,2023-09-07 10:45:08,HD Monitor,Accessory,NA,291.93
+2a3cd52a-9c25-4d88-8944-31ca7622547f,2023-08-08 17:35:33,HD Monitor,Accessory,LATAM,270.1
+384e3e7e-1a8c-4dfe-b102-0559207f7f00,2023-01-22 12:37:13,Mechanical Keyboard,Accessory,LATAM,151.54
+2de9b5aa-cdf6-42fb-b280-e6c99c2c0736,2024-09-25 18:48:55,Ergo Chair,Accessory,NA,494.66
+bfd60deb-ac47-4f0e-88fe-d3453741e52a,2024-12-25 20:22:29,Wireless Mouse,Accessory,EU,26.89
+11ad2339-445c-4d79-b2d6-cf4657a482e0,2025-05-15 17:55:22,USB-C Hub,Accessory,APAC,44.73
+6b83edfd-62d8-4b71-add6-f9a83b87ac4e,2023-08-23 13:37:12,Ergo Chair,Accessory,NA,440.35
+94443b02-6baf-43f5-8a24-8a0187ab5acb,2024-10-05 07:57:44,USB-C Hub,Accessory,EU,41.05
+b6faa950-c2e1-4e12-a923-31a7e6b1ac74,2024-11-30 08:36:59,Wireless Mouse,Accessory,APAC,25.85
+d0295a45-436e-45f6-8b78-922bcb3041b1,2025-05-04 03:33:54,Wireless Mouse,Accessory,APAC,25.9
+ea58eaef-d4ec-4748-9e38-5d04544ffded,2026-01-10 14:16:12,USB-C Hub,Accessory,EU,43.07
+8da6eba0-3b70-45b1-b991-029d32be82db,2025-12-25 02:53:49,Mechanical Keyboard,Accessory,EU,164.68
+7ef96fb3-42a7-46c4-a3d3-5ec57cedeb86,2025-09-07 05:39:42,Wireless Mouse,Accessory,APAC,22.89
+04292c25-e05d-458c-955a-f04fb3646379,2024-07-08 13:09:04,Ergo Chair,Accessory,APAC,418.99
+a6e115fc-fb98-4665-b541-99c69a9775f4,2026-01-17 09:31:10,Wireless Mouse,Accessory,NA,23.39
+99920ba3-89ab-414a-ace5-02ef34e59a3e,2025-04-04 17:24:49,Mechanical Keyboard,Accessory,EU,154.97
+2924ee46-ce51-441c-aaad-11c5835c4c2c,2023-03-14 17:36:40,Mechanical Keyboard,Accessory,APAC,155.85
+272c3e8c-da4e-43de-9fa4-75d3173c175e,2023-12-31 21:22:18,USB-C Hub,Accessory,NA,46.28
+9eea5819-689d-4e03-95ec-57090dfc4529,2024-05-16 22:02:01,USB-C Hub,Accessory,APAC,43.25
+9b644a00-0f82-480c-9d72-b27759606498,2025-06-08 21:59:02,USB-C Hub,Accessory,EU,42.11
+0183a78a-c9c7-40e2-9649-bcd75f01c2b9,2025-09-05 05:25:57,Mechanical Keyboard,Accessory,LATAM,164.97
+904ff01d-c81a-42ae-8ec6-33b79f6d6073,2025-06-04 16:12:35,Ergo Chair,Accessory,LATAM,439.39
+63d4f8fd-2002-4e92-bade-a13418c2c6fa,2025-12-07 00:56:22,Mechanical Keyboard,Accessory,EU,147.61
+ac7fc05d-2f26-457a-8602-6c88a9660f41,2025-06-02 06:37:49,Laptop Pro,Hardware,APAC,1152.08
+5a98dbb6-b82b-4ec9-8f70-1c865348d46e,2024-03-06 10:01:34,Mechanical Keyboard,Accessory,APAC,161.51
+fd0e43a3-3879-4186-9870-3d2d753f4a15,2024-02-09 18:18:24,SaaS License (Yearly),Accessory,NA,918.77
+4be881f5-2fb9-4c23-b990-0bd7caeb6342,2023-08-06 05:55:44,Wireless Mouse,Accessory,APAC,27.33
+402a94f1-b535-42f4-bfb7-aff846801aa0,2023-02-01 23:45:57,Mechanical Keyboard,Accessory,LATAM,155.65
+af3ee6e0-f0ed-4c52-978e-d79d0e4d221f,2023-07-14 16:43:29,HD Monitor,Accessory,NA,275.67
+f3798973-93af-4e98-8f5f-000d180b2b69,2024-12-22 01:49:35,USB-C Hub,Accessory,NA,48.61
+e3303b85-789f-49ff-8a3a-b1f678a45f71,2025-04-27 20:52:17,USB-C Hub,Accessory,LATAM,48.09
+04916a04-911d-4b74-beaa-5bc25a1f6d63,2024-07-20 22:51:24,HD Monitor,Accessory,NA,295.58
+ff3678a0-8ae1-4bcb-987e-64208133c93d,2025-08-18 05:01:36,USB-C Hub,Accessory,NA,47.54
+b5df5bae-e518-42f6-9438-8c874b237693,2025-07-09 23:43:10,USB-C Hub,Accessory,APAC,43.7
+23c4a70c-4acb-4abf-b110-b56803c8e922,2023-12-22 14:40:23,Mechanical Keyboard,Accessory,NA,142.95
+42faa33e-36e2-44a7-9be1-746321a88bad,2023-10-27 08:21:18,Wireless Mouse,Accessory,APAC,26.18
+deb79d6c-1aac-4c0f-a721-e652b4cd20b5,2024-07-13 09:05:18,Mechanical Keyboard,Accessory,APAC,142.38
+a00d5b77-34db-4143-a94d-4c9b7e62ed09,2025-03-05 10:28:28,SaaS License (Yearly),Accessory,NA,903.24
+766cf0d4-c3e1-47c7-b2bb-030520e76104,2023-08-16 22:56:54,Laptop Pro,Hardware,LATAM,1228.44
+cfdce0a4-37d5-407e-9cdf-1d402713f6c9,2024-04-27 15:47:11,Ergo Chair,Accessory,EU,446.57
+ef6234e5-0cbd-4748-bdf3-d33d5f671ac7,2024-02-13 19:48:06,Enterprise Server,Hardware,APAC,15578.14
+9aa12494-4f19-4336-91bd-755c6322f739,2023-04-21 07:53:01,Wireless Mouse,Accessory,APAC,25.08
+5a2f3e6c-d584-4cbc-a534-9977d80ca389,2025-12-18 13:56:41,USB-C Hub,Accessory,NA,43.6
+13b8f81d-8a71-458a-8bcb-7a1ed2d679ed,2025-11-20 05:05:59,USB-C Hub,Accessory,APAC,49.24
+c629015e-4691-4e32-9675-39cd1537ecbd,2024-01-11 12:27:50,Mechanical Keyboard,Accessory,APAC,162.96
+342067d4-a870-4de4-9fb6-175f2f2634c2,2025-08-26 13:08:56,SaaS License (Yearly),Accessory,EU,903.75
+3bc47999-6ebc-4089-95f9-cc4e404c4f9d,2023-08-29 00:20:08,SaaS License (Yearly),Accessory,NA,1035.88
+c4eab4b2-8e76-417f-b96b-f8fe2eb93d11,2024-04-03 23:27:45,USB-C Hub,Accessory,NA,45.2
+e0b84b5e-72c2-4074-b703-b4c44334c4c2,2023-05-08 14:09:18,HD Monitor,Accessory,EU,285.39
+b259313a-28c2-497c-88c9-0ee3edb5c8e9,2023-08-12 18:51:38,HD Monitor,Accessory,NA,312.74
+36cc259f-c544-4268-8dfe-cede9ab08c9a,2024-08-07 02:55:33,Laptop Pro,Hardware,LATAM,1219.75
+28721dd9-109a-4fcc-87be-d249b05675c5,2023-10-11 20:57:55,Laptop Pro,Hardware,EU,1214.93
+10ed0dd0-26cf-45f0-9567-b8fa52815305,2023-06-17 13:36:33,HD Monitor,Accessory,APAC,279.7
+88b4066b-35d1-4281-aec1-f7ea8f614d44,2024-01-15 22:21:08,Ergo Chair,Accessory,NA,489.06
+55f2a1df-734e-4b87-9e06-f5d888e06ceb,2025-11-06 15:30:17,Mechanical Keyboard,Accessory,EU,135.8
+5bfcb631-f544-4c4f-960e-d66fe60a1b8b,2024-02-02 21:07:59,HD Monitor,Accessory,APAC,308.0
+2679e53e-28a0-4a7f-8640-9b5671397baf,2025-01-25 22:54:37,Laptop Pro,Hardware,EU,1104.62
+2995d00b-caad-4506-8479-0777509b23e3,2023-04-06 06:34:17,Laptop Pro,Hardware,EU,1107.74
+1820ec4c-6348-405e-bd79-8c3eb64d447d,2024-07-03 08:02:49,Laptop Pro,Hardware,APAC,1185.72
+8e8abb06-61a9-4417-9dea-cfecd0450e4f,2025-11-13 11:39:53,Mechanical Keyboard,Accessory,APAC,152.55
+efa7ffc8-4d6f-4335-ba5e-ff8f779763f0,2023-11-17 10:56:44,Ergo Chair,Accessory,APAC,450.55
+77072914-9967-4f56-9eee-1107f5a58925,2024-12-24 16:44:59,Laptop Pro,Hardware,NA,1146.57
+709d4684-ac6a-46d6-b851-9231984f0caa,2023-07-02 23:22:51,USB-C Hub,Accessory,EU,48.23
+74662a21-7e4e-47a4-911b-962a5c075398,2024-07-16 22:52:56,Mechanical Keyboard,Accessory,EU,135.1
+218063d0-86ad-4ddd-9074-a41715e13a91,2023-08-30 10:15:44,Wireless Mouse,Accessory,APAC,26.76
+1ce85109-151e-485f-aca8-5266b75cdd82,2024-05-25 18:53:38,SaaS License (Yearly),Accessory,APAC,947.78
+11fe8e0f-73c3-4671-9c52-6b3cfe3d4a30,2024-02-06 15:02:25,Wireless Mouse,Accessory,LATAM,26.61
+75e3f93d-60c1-4085-906e-5d6f921bba0b,2025-01-22 09:04:09,Mechanical Keyboard,Accessory,EU,148.29
+f5a56f94-fc09-4520-86f3-56229b063ab7,2023-10-02 20:44:59,USB-C Hub,Accessory,EU,44.76
+0838119c-1aa1-4e06-957d-3f6e67e55055,2024-04-04 09:11:25,USB-C Hub,Accessory,APAC,46.7
+63e4027b-131c-414a-81ac-0824157a9262,2024-02-13 22:52:58,Wireless Mouse,Accessory,EU,22.73
+d82825e3-0930-4e35-a491-70f294a3481e,2023-08-08 00:49:12,Laptop Pro,Hardware,LATAM,1148.08
+e4a92f79-2dd7-46d4-9edf-91f6975c9d6c,2023-08-11 12:38:38,Enterprise Server,Hardware,APAC,15661.94
+0df544a6-9d40-4488-a0d5-502518543d98,2024-11-07 15:14:23,Laptop Pro,Hardware,EU,1219.79
+482be185-9606-401a-a209-3ae20e513328,2025-10-13 10:46:42,USB-C Hub,Accessory,LATAM,44.35
+2c1265b9-10ee-4de0-b0e1-481b5600c7fd,2023-08-01 09:55:45,Ergo Chair,Accessory,APAC,419.73
+b3816e72-8da5-41cc-b766-fbe420b9bd43,2025-10-18 16:36:38,HD Monitor,Accessory,NA,306.64
+5641c69d-a024-4ed4-8d71-33e58f443770,2026-01-13 02:53:14,Laptop Pro,Hardware,APAC,1231.36
+84dcdbab-fd9f-4014-b79b-11142b2aa5e9,2024-07-01 03:47:33,Enterprise Server,Hardware,EU,13975.91
+ed7e9f5d-41ca-4789-883b-5872bcf137cc,2024-04-19 19:36:03,SaaS License (Yearly),Accessory,LATAM,1014.93
+175e9057-87af-40ae-b215-5c4c9e05fe70,2025-11-03 04:03:29,Enterprise Server,Hardware,NA,13712.42
+753f68cc-5ca6-42d6-ad96-372e28e5e69b,2025-12-05 06:02:24,Mechanical Keyboard,Accessory,EU,145.12
+d0c612d1-c000-4fa0-a640-0cb7b57fc226,2025-12-08 08:16:21,Enterprise Server,Hardware,EU,15821.13
+006f0340-3f45-4f70-8017-37db00ad4c1d,2023-03-01 15:01:24,Wireless Mouse,Accessory,APAC,26.08
+a1e3ee21-e086-4644-9b4a-30ac2844182c,2023-02-18 12:34:58,Wireless Mouse,Accessory,LATAM,22.66
+1fb2f96d-8a32-4828-9294-3637a1b2565e,2023-11-05 12:26:21,HD Monitor,Accessory,LATAM,271.37
+b6a7071e-1fb7-4040-b43d-7b961bcff7a2,2024-03-02 21:59:50,Ergo Chair,Accessory,APAC,491.57
+3a3ef392-34d3-4d88-9108-cb3f613fe290,2023-12-12 01:06:38,Laptop Pro,Hardware,NA,1175.81
+cc3ccefe-4880-42a9-9edf-956456dfbbb5,2024-01-01 03:25:37,USB-C Hub,Accessory,NA,41.11
+0fbbedae-500e-4630-b440-18cc6cc63b89,2023-01-22 11:53:48,USB-C Hub,Accessory,LATAM,42.96

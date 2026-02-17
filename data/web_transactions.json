@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "bf2f7ab9-3eb4-45d5-ae58-53bc58847b2b",
+        "timestamp": "2026-02-12T00:27:19.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "7bd75400-4e1c-4dfd-85c8-c0d08c7be37c",
+        "timestamp": "2026-02-13T13:53:51.679628",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Premium",
+        "price": 999.0
+    },
+    {
+        "id": "677b0f62-e4fe-40f6-b0d4-2f428483e93a",
+        "timestamp": "2026-02-10T22:23:45.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "6b93991f-6171-41f3-9d73-6829b195235e",
+        "timestamp": "2026-02-12T05:32:30.679628",
+        "item": "Wireless Mouse",
+        "customer_type": "Guest",
+        "price": 25.0
+    },
+    {
+        "id": "2fbf1407-0fdd-4e1b-b35d-f9d767839df8",
+        "timestamp": "2026-02-12T19:19:58.679628",
+        "item": "Ergo Chair",
+        "customer_type": "Premium",
+        "price": 450.0
+    },
+    {
+        "id": "9e38ea96-f7cd-4688-98de-c1e0797bcbc0",
+        "timestamp": "2026-02-15T21:01:08.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Premium",
+        "price": 15000.0
+    },
+    {
+        "id": "aa84365a-7c2f-41e7-9cf5-9af5a8ef0220",
+        "timestamp": "2026-02-16T13:39:30.679628",
+        "item": "HD Monitor",
+        "customer_type": "Premium",
+        "price": 300.0
+    },
+    {
+        "id": "014615bb-c390-463e-8d4c-f73702320fda",
+        "timestamp": "2026-02-10T19:08:32.679628",
+        "item": "USB-C Hub",
+        "customer_type": "Premium",
+        "price": 45.0
+    },
+    {
+        "id": "a70fcbd3-b635-433f-8249-cb81fbc7faa3",
+        "timestamp": "2026-02-12T14:28:26.679628",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Guest",
+        "price": 999.0
+    },
+    {
+        "id": "25a99b98-8e99-4766-92ea-8019acd9ae42",
+        "timestamp": "2026-02-11T05:58:36.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "ca82c917-ae1b-47e4-b923-e45173d535c2",
+        "timestamp": "2026-02-10T22:35:13.679628",
+        "item": "USB-C Hub",
+        "customer_type": "Guest",
+        "price": 45.0
+    },
+    {
+        "id": "a5353002-e772-428a-b26a-13314ceb1d3e",
+        "timestamp": "2026-02-13T09:04:47.679628",
+        "item": "USB-C Hub",
+        "customer_type": "Guest",
+        "price": 45.0
+    },
+    {
+        "id": "217ca2cb-5268-4284-962f-d247541a7de9",
+        "timestamp": "2026-02-10T21:40:37.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Premium",
+        "price": 15000.0
+    },
+    {
+        "id": "15196e29-cb2e-4f6b-8b14-2fad94d96721",
+        "timestamp": "2026-02-13T06:51:57.679628",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Premium",
+        "price": 999.0
+    },
+    {
+        "id": "d00ef665-365c-4a4c-b131-bf6e9b1b83c9",
+        "timestamp": "2026-02-11T11:14:52.679628",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Premium",
+        "price": 150.0
+    },
+    {
+        "id": "c187ff9b-7028-4fe2-9e57-af2430ba4b45",
+        "timestamp": "2026-02-13T07:06:24.679628",
+        "item": "Wireless Mouse",
+        "customer_type": "Standard",
+        "price": 25.0
+    },
+    {
+        "id": "f1e91204-428d-485c-9c7c-6764d4499f15",
+        "timestamp": "2026-02-13T05:05:32.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Premium",
+        "price": 15000.0
+    },
+    {
+        "id": "959f8a5b-5c13-4afa-9c45-97308ba36bad",
+        "timestamp": "2026-02-14T18:10:58.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "7e1d8c8f-8aa4-436d-ab26-e63b9dd36fab",
+        "timestamp": "2026-02-11T09:09:39.679628",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Premium",
+        "price": 999.0
+    },
+    {
+        "id": "a4ce3198-cec6-4fe0-8d7a-fbff065d2204",
+        "timestamp": "2026-02-11T01:52:25.679628",
+        "item": "Wireless Mouse",
+        "customer_type": "Standard",
+        "price": 25.0
+    },
+    {
+        "id": "efa55a21-475a-48af-894e-8f05b82a0820",
+        "timestamp": "2026-02-15T00:58:39.679628",
+        "item": "Ergo Chair",
+        "customer_type": "Premium",
+        "price": 450.0
+    },
+    {
+        "id": "37d4b46a-56c9-45f9-8d42-e3cef5129cdd",
+        "timestamp": "2026-02-16T04:42:30.679628",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Premium",
+        "price": 999.0
+    },
+    {
+        "id": "7360516c-93c8-45cd-8dcb-2754c2f66d8e",
+        "timestamp": "2026-02-10T18:34:14.679628",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Premium",
+        "price": 999.0
+    },
+    {
+        "id": "9d7476dd-4a1a-4cd1-be01-9e55b29248a3",
+        "timestamp": "2026-02-13T13:21:10.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Premium",
+        "price": 1200.0
+    },
+    {
+        "id": "836f31c8-f25d-46e2-a3eb-723110f240a1",
+        "timestamp": "2026-02-16T14:48:07.679628",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Standard",
+        "price": 999.0
+    },
+    {
+        "id": "4123f9d5-4973-4339-a7c0-2a959e5e2a62",
+        "timestamp": "2026-02-11T11:44:35.679628",
+        "item": "Wireless Mouse",
+        "customer_type": "Guest",
+        "price": 25.0
+    },
+    {
+        "id": "6c540cbc-671d-41eb-b70c-110123896a4b",
+        "timestamp": "2026-02-16T08:15:45.679628",
+        "item": "USB-C Hub",
+        "customer_type": "Standard",
+        "price": 45.0
+    },
+    {
+        "id": "50b4bdf1-aaa8-458b-9c4f-4649d3d35062",
+        "timestamp": "2026-02-11T11:51:06.679628",
+        "item": "Ergo Chair",
+        "customer_type": "Guest",
+        "price": 450.0
+    },
+    {
+        "id": "665a59af-9fb3-4b81-964a-6b73dbb162ba",
+        "timestamp": "2026-02-16T01:19:16.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "d152429e-1378-4495-b7b7-5aba9db32576",
+        "timestamp": "2026-02-12T10:23:06.679628",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Guest",
+        "price": 150.0
+    },
+    {
+        "id": "cc84e18c-5043-482d-bfcc-f503d888c771",
+        "timestamp": "2026-02-13T11:57:21.679628",
+        "item": "HD Monitor",
+        "customer_type": "Guest",
+        "price": 300.0
+    },
+    {
+        "id": "a112de89-b8fb-4443-b672-a415fd08f588",
+        "timestamp": "2026-02-12T19:43:51.679628",
+        "item": "USB-C Hub",
+        "customer_type": "Premium",
+        "price": 45.0
+    },
+    {
+        "id": "4e94ea4f-100f-42e3-81a1-99d3f563a3e2",
+        "timestamp": "2026-02-11T07:35:16.679628",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Guest",
+        "price": 150.0
+    },
+    {
+        "id": "e1842454-e403-4e14-8d52-bdcb12fd6dda",
+        "timestamp": "2026-02-16T03:14:17.679628",
+        "item": "Wireless Mouse",
+        "customer_type": "Standard",
+        "price": 25.0
+    },
+    {
+        "id": "76478d0e-7236-49b5-81f7-9b71b4a7f87b",
+        "timestamp": "2026-02-15T23:05:30.679628",
+        "item": "HD Monitor",
+        "customer_type": "Standard",
+        "price": 300.0
+    },
+    {
+        "id": "ae6757a9-2c70-47da-8476-4c56ab10cc07",
+        "timestamp": "2026-02-10T18:24:15.679628",
+        "item": "HD Monitor",
+        "customer_type": "Premium",
+        "price": 300.0
+    },
+    {
+        "id": "ac0f8552-c694-4acc-99fd-dbb6bdc027d7",
+        "timestamp": "2026-02-11T09:46:04.679628",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Premium",
+        "price": 999.0
+    },
+    {
+        "id": "385979dd-fff0-41bf-abc6-89206e4b6ac1",
+        "timestamp": "2026-02-14T15:09:48.679628",
+        "item": "HD Monitor",
+        "customer_type": "Premium",
+        "price": 300.0
+    },
+    {
+        "id": "06211588-c833-4e37-bf74-023348cd8839",
+        "timestamp": "2026-02-16T07:13:43.679628",
+        "item": "Ergo Chair",
+        "customer_type": "Premium",
+        "price": 450.0
+    },
+    {
+        "id": "87712446-10c3-4172-94a2-95e52f099b77",
+        "timestamp": "2026-02-12T07:40:03.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "4e2b35c7-2fcf-4a94-99b7-8228d59a9c88",
+        "timestamp": "2026-02-10T20:25:38.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "f35dde1c-17b8-41e0-b967-55547139ca26",
+        "timestamp": "2026-02-12T01:09:09.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Premium",
+        "price": 1200.0
+    },
+    {
+        "id": "d8a99f37-ef7b-4a78-8c3b-6616d30ba4fc",
+        "timestamp": "2026-02-10T20:22:47.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "d229cf06-94d7-4974-b207-07b1136ebe36",
+        "timestamp": "2026-02-12T16:50:36.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Premium",
+        "price": 1200.0
+    },
+    {
+        "id": "a61b9035-cdd9-4a3c-ae39-0c81eb5a3a6c",
+        "timestamp": "2026-02-15T02:49:30.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Premium",
+        "price": 1200.0
+    },
+    {
+        "id": "eae9e9f7-4b1a-4c7c-a365-3e7bed049c55",
+        "timestamp": "2026-02-13T07:33:44.679628",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Standard",
+        "price": 150.0
+    },
+    {
+        "id": "1ed1495c-4e41-47fe-97a4-72f8e1abc50c",
+        "timestamp": "2026-02-13T16:26:04.679628",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Premium",
+        "price": 150.0
+    },
+    {
+        "id": "01f76079-e332-4b56-a787-9dc98aa6385e",
+        "timestamp": "2026-02-16T03:12:19.679628",
+        "item": "Wireless Mouse",
+        "customer_type": "Premium",
+        "price": 25.0
+    },
+    {
+        "id": "3653337b-d03e-451a-8623-f7d3665fff83",
+        "timestamp": "2026-02-16T09:15:56.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "b92735d8-c1e7-442b-86b6-aa7faca05866",
+        "timestamp": "2026-02-11T12:06:48.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "47611a22-f9b0-4cfc-8883-a2740ac44ba6",
+        "timestamp": "2026-02-15T19:35:38.679628",
+        "item": "Ergo Chair",
+        "customer_type": "Standard",
+        "price": 450.0
+    },
+    {
+        "id": "e2cb2677-e201-4e1a-ac9d-59962865d361",
+        "timestamp": "2026-02-14T22:10:51.679628",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Standard",
+        "price": 150.0
+    },
+    {
+        "id": "9728890e-6755-4b72-bf8b-c05fa1a65fe6",
+        "timestamp": "2026-02-15T12:22:16.679628",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Standard",
+        "price": 150.0
+    },
+    {
+        "id": "ad1579e1-8e0c-424c-9351-63943788676b",
+        "timestamp": "2026-02-15T00:26:48.679628",
+        "item": "HD Monitor",
+        "customer_type": "Premium",
+        "price": 300.0
+    },
+    {
+        "id": "2d4d5271-477e-4f74-8f32-2d973864ff23",
+        "timestamp": "2026-02-15T02:22:44.679628",
+        "item": "USB-C Hub",
+        "customer_type": "Premium",
+        "price": 45.0
+    },
+    {
+        "id": "156d1c2f-7b56-429e-9df2-d84dda210926",
+        "timestamp": "2026-02-14T20:46:14.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Guest",
+        "price": 1200.0
+    },
+    {
+        "id": "30624202-5766-46a6-9d85-c41d9e27ece4",
+        "timestamp": "2026-02-11T18:46:20.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Standard",
+        "price": 15000.0
+    },
+    {
+        "id": "15cbe590-67d2-4fc7-9c4e-ed5af2684a12",
+        "timestamp": "2026-02-11T21:13:16.679628",
+        "item": "HD Monitor",
+        "customer_type": "Standard",
+        "price": 300.0
+    },
+    {
+        "id": "773ee1ac-d0fb-4ca1-9981-2f193885c37f",
+        "timestamp": "2026-02-13T23:27:31.679628",
+        "item": "HD Monitor",
+        "customer_type": "Premium",
+        "price": 300.0
+    },
+    {
+        "id": "7d37fb5f-1153-4995-bf10-9a5d8325d1ad",
+        "timestamp": "2026-02-15T10:19:49.679628",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Guest",
+        "price": 150.0
+    },
+    {
+        "id": "a9553f26-5dc5-4add-856b-7cf4f66fdbc1",
+        "timestamp": "2026-02-15T21:27:03.679628",
+        "item": "Wireless Mouse",
+        "customer_type": "Standard",
+        "price": 25.0
+    },
+    {
+        "id": "7d3337cd-1609-4e48-b729-fea1f5c23fa6",
+        "timestamp": "2026-02-12T21:12:39.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Premium",
+        "price": 1200.0
+    },
+    {
+        "id": "61b7f194-f361-42cb-bad3-fd8f572e8e64",
+        "timestamp": "2026-02-11T09:34:56.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "42ce67ca-0be2-491e-9467-83ed677db1c1",
+        "timestamp": "2026-02-10T19:26:21.679628",
+        "item": "Wireless Mouse",
+        "customer_type": "Premium",
+        "price": 25.0
+    },
+    {
+        "id": "3dd1f7d3-e132-479c-9b7f-f6922425e12c",
+        "timestamp": "2026-02-10T23:49:44.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "652bd858-bdec-4bc5-8f53-48e34724bb75",
+        "timestamp": "2026-02-11T06:16:16.679628",
+        "item": "Wireless Mouse",
+        "customer_type": "Standard",
+        "price": 25.0
+    },
+    {
+        "id": "9433d1c5-c0f5-45a6-9b3d-6f8daae4810a",
+        "timestamp": "2026-02-11T03:31:04.679628",
+        "item": "Wireless Mouse",
+        "customer_type": "Standard",
+        "price": 25.0
+    },
+    {
+        "id": "a8ced3d9-88d9-47c7-94fd-1a0a0f6b6ba4",
+        "timestamp": "2026-02-12T17:24:04.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Premium",
+        "price": 1200.0
+    },
+    {
+        "id": "5f543947-1d95-4dd1-ae99-18a8e6c2e2d9",
+        "timestamp": "2026-02-16T07:28:40.679628",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "3e71b4cc-483d-4223-8033-8bff5870cc37",
+        "timestamp": "2026-02-14T07:14:07.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "8af815ca-22bb-4ce4-9fa6-bfb98c3d76f0",
+        "timestamp": "2026-02-14T08:39:26.679628",
+        "item": "USB-C Hub",
+        "customer_type": "Standard",
+        "price": 45.0
+    },
+    {
+        "id": "fdf031f2-d0df-4b84-a866-b8f77cf3f714",
+        "timestamp": "2026-02-15T05:42:51.679628",
+        "item": "Ergo Chair",
+        "customer_type": "Premium",
+        "price": 450.0
+    },
+    {
+        "id": "4db2d28a-67f4-42b2-b59f-9a8e4a5fa947",
+        "timestamp": "2026-02-13T20:49:03.679628",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "2dc2395a-6cb5-4033-964e-5d27d2e9ebb3",
+        "timestamp": "2026-02-16T00:03:38.679628",
+        "item": "USB-C Hub",
+        "customer_type": "Standard",
+        "price": 45.0
+    },
+    {
+        "id": "7824159e-ae99-4324-9d99-81f3b87c9f66",
+        "timestamp": "2026-02-15T13:14:40.679628",
+        "item": "USB-C Hub",
+        "customer_type": "Premium",
+        "price": 45.0
+    },
+    {
+        "id": "68a88739-0f9d-47cd-b4ae-13f5843a30ac",
+        "timestamp": "2026-02-10T22:44:51.679628",
+        "item": "Ergo Chair",
+        "customer_type": "Standard",
+        "price": 450.0
+    },
+    {
+        "id": "927f335f-f30e-4685-8e1b-dca885ff1c20",
+        "timestamp": "2026-02-11T19:45:32.679628",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Premium",
+        "price": 999.0
+    },
+    {
+        "id": "27aa41f6-fc88-4d90-ae2c-51cc9a1a5ca4",
+        "timestamp": "2026-02-15T13:53:59.679628",
+        "item": "USB-C Hub",
+        "customer_type": "Premium",
+        "price": 45.0
+    },
+    {
+        "id": "9603960f-d3db-4d26-889e-c6d5c0fbe13c",
+        "timestamp": "2026-02-14T17:39:04.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "1e8a82df-8c51-4fc6-8c89-4c643108e390",
+        "timestamp": "2026-02-16T13:14:23.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "7e3086c8-47fe-4272-93db-9099e0ed0bcc",
+        "timestamp": "2026-02-13T00:04:03.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Guest",
+        "price": 1200.0
+    },
+    {
+        "id": "018c2b51-84bb-4e55-b0b5-53295cc4dab1",
+        "timestamp": "2026-02-12T23:07:31.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Standard",
+        "price": 15000.0
+    },
+    {
+        "id": "59683012-bf11-41e3-a96f-043c87d10b59",
+        "timestamp": "2026-02-16T14:43:49.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Premium",
+        "price": 1200.0
+    },
+    {
+        "id": "8e0593ed-870c-483f-a476-8c45375af21e",
+        "timestamp": "2026-02-14T21:58:27.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Guest",
+        "price": 450.0
+    },
+    {
+        "id": "73818c76-4dd7-430f-8618-849b90ac695d",
+        "timestamp": "2026-02-10T23:56:19.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Premium",
+        "price": 450.0
+    },
+    {
+        "id": "e748bdaa-6c83-47e9-829c-5e8e3e595328",
+        "timestamp": "2026-02-14T09:02:48.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Standard",
+        "price": 45.0
+    },
+    {
+        "id": "20e1b52e-f8cd-4011-a2d0-13c61dee9302",
+        "timestamp": "2026-02-12T18:45:35.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Guest",
+        "price": 45.0
+    },
+    {
+        "id": "c166a871-c6b1-4036-bb77-94c888e25ae5",
+        "timestamp": "2026-02-13T16:58:17.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Premium",
+        "price": 999.0
+    },
+    {
+        "id": "6d2607ae-e7fb-45ac-83cf-06c84e80aeab",
+        "timestamp": "2026-02-15T19:05:33.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Guest",
+        "price": 999.0
+    },
+    {
+        "id": "5521ad99-43d8-4247-b8e6-7f54907449a9",
+        "timestamp": "2026-02-12T13:22:39.682794",
+        "item": "HD Monitor",
+        "customer_type": "Guest",
+        "price": 300.0
+    },
+    {
+        "id": "d03a840b-b4c0-4dec-9135-84d0a327524b",
+        "timestamp": "2026-02-15T15:08:38.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Premium",
+        "price": 15000.0
+    },
+    {
+        "id": "151f3da2-e696-4a82-b01e-bbc8603f2a9c",
+        "timestamp": "2026-02-11T09:06:36.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Guest",
+        "price": 999.0
+    },
+    {
+        "id": "3cc2c71e-16f9-40f5-b235-15ccfe121d36",
+        "timestamp": "2026-02-16T11:56:07.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "0ac6f0f8-714e-4611-9189-5ed6ffc2cb30",
+        "timestamp": "2026-02-13T04:21:42.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Premium",
+        "price": 15000.0
+    },
+    {
+        "id": "6a843748-e149-4ba7-83a0-b84c3fc74803",
+        "timestamp": "2026-02-13T02:40:16.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Premium",
+        "price": 45.0
+    },
+    {
+        "id": "54c3a62a-f15d-4195-a949-55909151993c",
+        "timestamp": "2026-02-15T23:15:19.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Guest",
+        "price": 1200.0
+    },
+    {
+        "id": "fcf9323e-f27a-4c83-a3a8-cd6026fb1ac9",
+        "timestamp": "2026-02-12T13:57:51.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Guest",
+        "price": 150.0
+    },
+    {
+        "id": "71acbf1c-97d6-4255-870d-c6be606a934d",
+        "timestamp": "2026-02-12T02:04:09.682794",
+        "item": "HD Monitor",
+        "customer_type": "Standard",
+        "price": 300.0
+    },
+    {
+        "id": "ceeb861a-8eed-48b7-9a4a-d5c391279272",
+        "timestamp": "2026-02-16T08:36:33.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Guest",
+        "price": 999.0
+    },
+    {
+        "id": "a648f51b-4954-4a2b-8626-25445480a070",
+        "timestamp": "2026-02-15T10:21:58.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Guest",
+        "price": 25.0
+    },
+    {
+        "id": "1690ebf9-dfb7-404c-b40f-ba4db17267ae",
+        "timestamp": "2026-02-12T08:55:56.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Guest",
+        "price": 150.0
+    },
+    {
+        "id": "c2ef999f-3a44-42a8-a935-9b8db2216794",
+        "timestamp": "2026-02-13T02:48:00.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Guest",
+        "price": 999.0
+    },
+    {
+        "id": "d87d0334-fda9-4b0a-8ba9-cc358a2bc19c",
+        "timestamp": "2026-02-11T19:30:44.682794",
+        "item": "HD Monitor",
+        "customer_type": "Guest",
+        "price": 300.0
+    },
+    {
+        "id": "6034e76d-3005-441d-8ed3-98edc11a6f24",
+        "timestamp": "2026-02-11T04:57:28.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Guest",
+        "price": 150.0
+    },
+    {
+        "id": "0236aa33-d610-4b32-9324-8b10bdd92f37",
+        "timestamp": "2026-02-15T11:53:19.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Guest",
+        "price": 45.0
+    },
+    {
+        "id": "5874927f-4009-4fce-84dc-a2c90d135a18",
+        "timestamp": "2026-02-11T04:09:48.682794",
+        "item": "HD Monitor",
+        "customer_type": "Guest",
+        "price": 300.0
+    },
+    {
+        "id": "b4a183c9-2571-4c56-b20c-7c2aa2acb1d3",
+        "timestamp": "2026-02-12T09:57:52.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Guest",
+        "price": 450.0
+    },
+    {
+        "id": "17d846f5-d20f-40db-8fb6-a5bf33f46381",
+        "timestamp": "2026-02-12T14:31:52.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "22f21f6e-4f64-4dc3-81fc-aa937d6f99ac",
+        "timestamp": "2026-02-10T23:29:48.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Standard",
+        "price": 450.0
+    },
+    {
+        "id": "e9d73d8d-7d90-42d3-9355-97eda40dd75a",
+        "timestamp": "2026-02-13T10:11:12.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Standard",
+        "price": 15000.0
+    },
+    {
+        "id": "ce28a62a-82ae-4a65-861a-b63331b35b13",
+        "timestamp": "2026-02-13T18:56:10.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Guest",
+        "price": 450.0
+    },
+    {
+        "id": "b8a6ff72-a3f9-48de-b52f-bccde683c383",
+        "timestamp": "2026-02-16T13:23:51.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Guest",
+        "price": 1200.0
+    },
+    {
+        "id": "e88ab826-b606-4135-b727-5ee6b1b03f4e",
+        "timestamp": "2026-02-15T11:31:29.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Guest",
+        "price": 1200.0
+    },
+    {
+        "id": "42254805-6459-4b25-a6de-df9f083c6a07",
+        "timestamp": "2026-02-15T00:37:40.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Premium",
+        "price": 150.0
+    },
+    {
+        "id": "14fed5de-bb47-427c-ad26-45c6bd39a612",
+        "timestamp": "2026-02-11T01:38:51.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Premium",
+        "price": 150.0
+    },
+    {
+        "id": "54cb6fe2-5b89-4183-889f-1eaa45a6c57c",
+        "timestamp": "2026-02-11T19:36:52.682794",
+        "item": "HD Monitor",
+        "customer_type": "Premium",
+        "price": 300.0
+    },
+    {
+        "id": "8d3113d0-a3f0-4805-af34-eac80b5fccd5",
+        "timestamp": "2026-02-14T01:23:19.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Premium",
+        "price": 15000.0
+    },
+    {
+        "id": "0398620a-dcb8-419c-9572-4cab721dd25e",
+        "timestamp": "2026-02-15T03:29:48.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Premium",
+        "price": 25.0
+    },
+    {
+        "id": "19a13bca-5c02-4cb8-b708-fe970468f83f",
+        "timestamp": "2026-02-13T21:22:10.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Guest",
+        "price": 25.0
+    },
+    {
+        "id": "5f59b9a3-3ae6-44c8-a9d9-b19b879c2e58",
+        "timestamp": "2026-02-14T02:33:53.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Guest",
+        "price": 150.0
+    },
+    {
+        "id": "d2387204-99a4-4ff0-bb72-7a10418376cd",
+        "timestamp": "2026-02-12T02:06:32.682794",
+        "item": "HD Monitor",
+        "customer_type": "Standard",
+        "price": 300.0
+    },
+    {
+        "id": "80409371-5c2a-4c34-9e34-5dc3198f077f",
+        "timestamp": "2026-02-13T09:10:47.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Premium",
+        "price": 45.0
+    },
+    {
+        "id": "5b7401f2-b156-481e-a643-67d1610c3a3a",
+        "timestamp": "2026-02-12T12:15:43.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Guest",
+        "price": 45.0
+    },
+    {
+        "id": "642da615-a912-4fb4-8b19-5083668e7f3e",
+        "timestamp": "2026-02-15T16:19:04.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Standard",
+        "price": 150.0
+    },
+    {
+        "id": "66139794-0eec-4b8f-943c-d76f6c5f846f",
+        "timestamp": "2026-02-12T12:12:19.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Guest",
+        "price": 25.0
+    },
+    {
+        "id": "ca38b88d-b7c4-4a70-b93e-6e2d3d2b56c5",
+        "timestamp": "2026-02-14T12:13:57.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Standard",
+        "price": 45.0
+    },
+    {
+        "id": "af5382b8-69b4-4780-90b5-296a5db6b982",
+        "timestamp": "2026-02-11T14:48:28.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Guest",
+        "price": 45.0
+    },
+    {
+        "id": "df670f7e-2b59-42d7-b26b-dc344af7d08f",
+        "timestamp": "2026-02-12T22:59:39.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Guest",
+        "price": 45.0
+    },
+    {
+        "id": "41d347e5-5f57-405a-9d85-03d8c2b9dce3",
+        "timestamp": "2026-02-13T13:11:42.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "5daefea5-0f0d-4c9f-950e-c1214d3627ef",
+        "timestamp": "2026-02-12T19:16:08.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Guest",
+        "price": 25.0
+    },
+    {
+        "id": "5e8b2134-cd65-4cf7-af91-6b6028b9f9ed",
+        "timestamp": "2026-02-11T00:41:42.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Standard",
+        "price": 45.0
+    },
+    {
+        "id": "fd1c0b5d-e084-4dfd-8cdf-f4376b6b5340",
+        "timestamp": "2026-02-15T20:03:51.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Guest",
+        "price": 25.0
+    },
+    {
+        "id": "bc8a690f-3c85-4946-a99b-11a13ba7a721",
+        "timestamp": "2026-02-14T22:54:54.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Premium",
+        "price": 1200.0
+    },
+    {
+        "id": "a6b99d12-9bce-436d-b5b9-db5668b8c2c1",
+        "timestamp": "2026-02-11T15:45:45.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "6bac9f5f-bd81-4cae-bc3f-40e55ec92d6b",
+        "timestamp": "2026-02-12T04:49:14.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Premium",
+        "price": 25.0
+    },
+    {
+        "id": "42902290-5268-44da-be87-c81d0de98858",
+        "timestamp": "2026-02-15T02:31:17.682794",
+        "item": "HD Monitor",
+        "customer_type": "Premium",
+        "price": 300.0
+    },
+    {
+        "id": "3cc460b0-30e6-488d-a403-405e02b0873c",
+        "timestamp": "2026-02-14T03:02:05.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Guest",
+        "price": 1200.0
+    },
+    {
+        "id": "e13de5c1-5a4b-4327-8139-473ba4e247ad",
+        "timestamp": "2026-02-13T16:53:54.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Guest",
+        "price": 150.0
+    },
+    {
+        "id": "7ce9b1d2-cf5c-4060-a0f8-5cc203d744d4",
+        "timestamp": "2026-02-11T20:35:14.682794",
+        "item": "HD Monitor",
+        "customer_type": "Standard",
+        "price": 300.0
+    },
+    {
+        "id": "3c052fba-7ce6-4a8e-8c81-68626b337ab4",
+        "timestamp": "2026-02-10T18:15:19.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Premium",
+        "price": 450.0
+    },
+    {
+        "id": "6998b21b-fd80-4931-9499-6a2f55719ffb",
+        "timestamp": "2026-02-12T05:07:02.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Standard",
+        "price": 150.0
+    },
+    {
+        "id": "20b9b973-738e-4e17-98db-81a33d93295e",
+        "timestamp": "2026-02-13T07:25:36.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Standard",
+        "price": 450.0
+    },
+    {
+        "id": "2e75e3fc-f3b0-4ef4-9cb0-5e39e36425f8",
+        "timestamp": "2026-02-13T00:59:20.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Premium",
+        "price": 15000.0
+    },
+    {
+        "id": "6ad968a6-4a4b-4478-85da-a350f7d23a34",
+        "timestamp": "2026-02-14T23:40:38.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Premium",
+        "price": 25.0
+    },
+    {
+        "id": "d2e3e23e-aab5-482b-af6c-f32ae49b0317",
+        "timestamp": "2026-02-12T08:04:22.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Guest",
+        "price": 999.0
+    },
+    {
+        "id": "d10a1a64-7c60-4a52-811e-c6c082485b73",
+        "timestamp": "2026-02-13T05:30:57.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Guest",
+        "price": 25.0
+    },
+    {
+        "id": "ac68bc88-a8aa-44b8-9872-9f9a6e76ba33",
+        "timestamp": "2026-02-14T02:09:15.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Premium",
+        "price": 1200.0
+    },
+    {
+        "id": "bcc86f20-fec2-4eb2-82c0-fd7cc935542a",
+        "timestamp": "2026-02-16T15:58:40.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "ae204b15-9c73-4748-b170-0daf8ab34712",
+        "timestamp": "2026-02-16T14:19:48.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Premium",
+        "price": 25.0
+    },
+    {
+        "id": "2e94527e-8374-4109-896a-181dd8dd3763",
+        "timestamp": "2026-02-11T02:06:51.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Standard",
+        "price": 45.0
+    },
+    {
+        "id": "eeb636e0-0d94-4b5c-aa21-020ca0910dc6",
+        "timestamp": "2026-02-11T20:20:45.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Guest",
+        "price": 999.0
+    },
+    {
+        "id": "79b976c3-06a9-4ee2-b0c0-14ad3b682679",
+        "timestamp": "2026-02-12T06:56:35.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Standard",
+        "price": 450.0
+    },
+    {
+        "id": "2aba23d5-e8cf-4fb4-b332-11aa58875d29",
+        "timestamp": "2026-02-14T11:28:38.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Guest",
+        "price": 1200.0
+    },
+    {
+        "id": "dd16cbaa-7c48-496c-a74b-85a9d1244dc6",
+        "timestamp": "2026-02-12T10:14:40.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Standard",
+        "price": 15000.0
+    },
+    {
+        "id": "56504f49-21b2-4218-9950-e01786a5327c",
+        "timestamp": "2026-02-12T20:55:09.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Standard",
+        "price": 25.0
+    },
+    {
+        "id": "f6156bc0-de58-43ab-ba99-9413c3d235e2",
+        "timestamp": "2026-02-13T21:23:50.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Guest",
+        "price": 25.0
+    },
+    {
+        "id": "106478ea-4685-48af-9238-8281612beb07",
+        "timestamp": "2026-02-12T20:38:45.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Standard",
+        "price": 450.0
+    },
+    {
+        "id": "fc63b07c-ea52-4f67-a978-65c181329bb5",
+        "timestamp": "2026-02-13T10:33:55.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Standard",
+        "price": 15000.0
+    },
+    {
+        "id": "38d0a0b8-c2ca-4bad-9acb-8602e1e88a58",
+        "timestamp": "2026-02-13T03:39:33.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Guest",
+        "price": 450.0
+    },
+    {
+        "id": "821c9e40-07b6-464d-b945-0b73c4a6d3c3",
+        "timestamp": "2026-02-12T00:52:46.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Premium",
+        "price": 450.0
+    },
+    {
+        "id": "29dffec0-49e9-4aac-a91a-5dcf35f6561b",
+        "timestamp": "2026-02-15T03:44:27.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Standard",
+        "price": 450.0
+    },
+    {
+        "id": "bc31e63e-197b-443d-849c-67cc63368d92",
+        "timestamp": "2026-02-11T19:48:20.682794",
+        "item": "HD Monitor",
+        "customer_type": "Premium",
+        "price": 300.0
+    },
+    {
+        "id": "1b501819-0bfd-4496-b1fd-a1ac412671f3",
+        "timestamp": "2026-02-11T14:12:18.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "bbe37fe9-3ab6-4f31-8be0-2056f6f8cf88",
+        "timestamp": "2026-02-15T12:31:06.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Premium",
+        "price": 999.0
+    },
+    {
+        "id": "70656177-5f56-4c87-9710-824e6a82ff07",
+        "timestamp": "2026-02-11T13:54:29.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Standard",
+        "price": 25.0
+    },
+    {
+        "id": "cc840141-60ff-4878-9f15-612fe940269e",
+        "timestamp": "2026-02-16T02:28:45.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Standard",
+        "price": 150.0
+    },
+    {
+        "id": "3b856a74-1324-4ca0-9e73-75874e38081c",
+        "timestamp": "2026-02-12T06:50:49.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Guest",
+        "price": 450.0
+    },
+    {
+        "id": "bcd93b94-cb19-4887-8be9-22b7aefe6c99",
+        "timestamp": "2026-02-11T23:53:03.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Guest",
+        "price": 999.0
+    },
+    {
+        "id": "58eb9fa5-1752-4c1b-8e1c-665fe16d1831",
+        "timestamp": "2026-02-14T13:38:12.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Standard",
+        "price": 45.0
+    },
+    {
+        "id": "876d21c6-2633-49d1-9253-eebbb86eb16c",
+        "timestamp": "2026-02-15T05:43:59.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Guest",
+        "price": 45.0
+    },
+    {
+        "id": "5d0cd90d-bc09-4f56-89f2-68ab19a4f35c",
+        "timestamp": "2026-02-16T03:12:59.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Guest",
+        "price": 45.0
+    },
+    {
+        "id": "8765ff00-58b1-439c-aabf-acf9af896dfc",
+        "timestamp": "2026-02-14T12:36:05.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Premium",
+        "price": 150.0
+    },
+    {
+        "id": "5d73d53f-b84b-4e8e-9477-9b3af7c0d04c",
+        "timestamp": "2026-02-15T01:45:33.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Standard",
+        "price": 150.0
+    },
+    {
+        "id": "e3852d06-cf2b-40ea-8767-9831fdd3ebbb",
+        "timestamp": "2026-02-11T15:31:00.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "cec285e6-6d91-4159-aa97-0bf2b966f56c",
+        "timestamp": "2026-02-16T13:28:10.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Guest",
+        "price": 150.0
+    },
+    {
+        "id": "b84a0d2c-abca-445f-bc45-52cbb3525f49",
+        "timestamp": "2026-02-14T04:01:42.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Premium",
+        "price": 150.0
+    },
+    {
+        "id": "384fdb4c-47f0-4496-ad4b-8045bf35d3b0",
+        "timestamp": "2026-02-14T16:33:30.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Standard",
+        "price": 150.0
+    },
+    {
+        "id": "91ba1fbf-1401-4e12-ba6f-b8097cc5cd26",
+        "timestamp": "2026-02-13T06:41:09.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Standard",
+        "price": 999.0
+    },
+    {
+        "id": "60d7cc37-2304-48cf-b57b-a9d29f0a1b14",
+        "timestamp": "2026-02-16T07:07:36.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Premium",
+        "price": 450.0
+    },
+    {
+        "id": "e8323273-8c43-4c33-bf67-9845ac571fb7",
+        "timestamp": "2026-02-15T14:02:14.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Guest",
+        "price": 150.0
+    },
+    {
+        "id": "e146d75c-ec94-45dc-86d4-20d4e139f146",
+        "timestamp": "2026-02-16T17:18:29.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Guest",
+        "price": 1200.0
+    },
+    {
+        "id": "c087b9e8-3b6f-45e8-8c73-884803de30ab",
+        "timestamp": "2026-02-11T01:13:40.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Standard",
+        "price": 150.0
+    },
+    {
+        "id": "a0f62425-2d54-48f4-8dd8-3c334a581817",
+        "timestamp": "2026-02-12T20:14:08.682794",
+        "item": "Ergo Chair",
+        "customer_type": "Premium",
+        "price": 450.0
+    },
+    {
+        "id": "d870bbdc-64b7-43f4-a341-cfffd48b4f2b",
+        "timestamp": "2026-02-16T01:55:48.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "2cbcb7c5-a7e0-43a4-ab24-a5034ca3bb33",
+        "timestamp": "2026-02-12T10:20:15.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Standard",
+        "price": 999.0
+    },
+    {
+        "id": "30cbaf18-b1c9-4cc1-a466-5a9c3c96de75",
+        "timestamp": "2026-02-13T21:11:18.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Standard",
+        "price": 45.0
+    },
+    {
+        "id": "45c083df-e779-40ca-b155-6830717c77f7",
+        "timestamp": "2026-02-14T02:59:53.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Premium",
+        "price": 45.0
+    },
+    {
+        "id": "8c0e41d9-ca10-4aa5-9cf8-1b5f58046783",
+        "timestamp": "2026-02-13T09:57:12.682794",
+        "item": "HD Monitor",
+        "customer_type": "Standard",
+        "price": 300.0
+    },
+    {
+        "id": "f1958a3e-e097-4b78-8037-c46399ab5d65",
+        "timestamp": "2026-02-11T16:33:20.682794",
+        "item": "HD Monitor",
+        "customer_type": "Guest",
+        "price": 300.0
+    },
+    {
+        "id": "097f9625-d712-4a0e-9b73-94cfb95d954c",
+        "timestamp": "2026-02-11T06:52:24.682794",
+        "item": "Enterprise Server",
+        "customer_type": "Guest",
+        "price": 15000.0
+    },
+    {
+        "id": "f156dcae-1012-4dca-9f51-184584c8e52c",
+        "timestamp": "2026-02-12T11:51:43.682794",
+        "item": "HD Monitor",
+        "customer_type": "Guest",
+        "price": 300.0
+    },
+    {
+        "id": "f511410d-8a30-42a9-91c8-a93e8b7a3103",
+        "timestamp": "2026-02-11T16:40:41.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Premium",
+        "price": 999.0
+    },
+    {
+        "id": "f6983cbe-7b1d-4d9f-861f-2c1ed88ae2b9",
+        "timestamp": "2026-02-13T14:55:40.682794",
+        "item": "USB-C Hub",
+        "customer_type": "Premium",
+        "price": 45.0
+    },
+    {
+        "id": "32ef91f6-f020-467b-ad94-def527b936df",
+        "timestamp": "2026-02-15T01:15:09.682794",
+        "item": "HD Monitor",
+        "customer_type": "Guest",
+        "price": 300.0
+    },
+    {
+        "id": "41afd652-5e29-4d15-a0fe-fdb440a45a84",
+        "timestamp": "2026-02-16T09:04:48.682794",
+        "item": "Mechanical Keyboard",
+        "customer_type": "Standard",
+        "price": 150.0
+    },
+    {
+        "id": "575bb50b-299c-4320-af16-8b34fe10efa8",
+        "timestamp": "2026-02-15T03:32:03.682794",
+        "item": "SaaS License (Yearly)",
+        "customer_type": "Standard",
+        "price": 999.0
+    },
+    {
+        "id": "774d64e9-13bb-41a6-a97c-ee4d9e25f49d",
+        "timestamp": "2026-02-14T21:06:56.682794",
+        "item": "HD Monitor",
+        "customer_type": "Premium",
+        "price": 300.0
+    },
+    {
+        "id": "f6cd55b8-9fb2-423e-82d2-7d85b8226e33",
+        "timestamp": "2026-02-16T08:14:14.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Premium",
+        "price": 25.0
+    },
+    {
+        "id": "afd04de3-6e63-40cf-b674-163de51dd382",
+        "timestamp": "2026-02-11T19:14:22.682794",
+        "item": "Laptop Pro",
+        "customer_type": "Standard",
+        "price": 1200.0
+    },
+    {
+        "id": "243d2c67-2600-4f65-acba-dc7f2c30eac4",
+        "timestamp": "2026-02-13T04:45:33.682794",
+        "item": "Wireless Mouse",
+        "customer_type": "Premium",
+        "price": 25.0
+    }
+]
